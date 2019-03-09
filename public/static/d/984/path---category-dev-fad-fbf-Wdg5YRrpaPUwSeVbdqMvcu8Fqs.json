@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"categories":[{"name":"Photo","slug":"photo","color":"#0c9ee4"},{"name":"Dev","slug":"dev","color":"#f7615f"}]}},"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/hello-world/"},"frontmatter":{"date":"2019.03.10","title":"TEST","emoji":"💯","category":"dev"}}}]}},"pageContext":{"category":"dev"}}

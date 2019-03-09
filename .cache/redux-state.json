@@ -1,0 +1,3221 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d9173cabdba7a0bf6adf74d8bb1f17d9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8e1e07fea81fcae7f4bb5e7ba1724d77",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ccd757a3bbc12e9ad60fbfe743351eba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4bf4a11453e6da6311385f7db64fc046",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "db5f940023a98544e09ef4e87bf51a9b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9b7e3d71d655b854bb41910af2a80895",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b34a77ab-7cd6-5037-99ff-8e52a8787038": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
+      "id": "b34a77ab-7cd6-5037-99ff-8e52a8787038",
+      "name": "gatsby-remark-code-titles",
+      "version": "1.0.2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
+      "packageJson": {
+        "name": "gatsby-remark-code-titles",
+        "version": "1.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-remark-plugin"
+        ],
+        "author": "Dustin Schau <dustinschau@gmail.com> (https://dustinschau.com)",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "query-string",
+            "version": "~6.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "~1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "~6.26.0"
+          },
+          {
+            "name": "babel-core",
+            "version": "~6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "~6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "~1.6.1"
+          },
+          {
+            "name": "cross-env",
+            "version": "~5.1.4"
+          },
+          {
+            "name": "husky",
+            "version": "~0.14.3"
+          },
+          {
+            "name": "prettier",
+            "version": "~1.11.1"
+          },
+          {
+            "name": "pretty-quick",
+            "version": "~1.4.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6cefdce7a7a18c2f506476a58184e6d7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9695e12c-d3c9-5911-b8ef-2cb3983edb7a": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube",
+      "id": "9695e12c-d3c9-5911-b8ef-2cb3983edb7a",
+      "name": "gatsby-remark-embed-youtube",
+      "version": "0.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "width": 650,
+        "height": 365
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube",
+      "packageJson": {
+        "name": "gatsby-remark-embed-youtube",
+        "description": "Embed Youtube Videos in Gatsby via Markdown",
+        "version": "0.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Marvin Mieth <ntwcklng@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "72640e0afcc73308d82998ff417ec4d9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0d714d69-14e1-5870-9e32-2fbe40905b54": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images",
+      "id": "0d714d69-14e1-5870-9e32-2fbe40905b54",
+      "name": "gatsby-remark-images",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 700,
+        "linkImagesToOriginal": false,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "75f13fe37f1317ddd0ad0ca2dd091e24",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe",
+      "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a2eb151de408198c19f851b487ebd027",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ddb3f007-4d08-5bde-b9d5-b3e80b7c7291": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut",
+      "id": "ddb3f007-4d08-5bde-b9d5-b3e80b7c7291",
+      "name": "gatsby-remark-twemoji-shortcut",
+      "version": "0.10.1",
+      "pluginOptions": {
+        "plugins": [],
+        "classname": "twemoji"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut",
+      "packageJson": {
+        "name": "gatsby-remark-twemoji-shortcut",
+        "description": "Add twitter emoji to gatsby markdown.",
+        "version": "0.10.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-remark",
+          "emoji",
+          "markdown"
+        ],
+        "author": {
+          "name": "Trina Lu",
+          "email": "tri613@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "twemoji",
+            "version": "^11.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "jest",
+            "version": "^23.1.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.42"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a9a2cf5fcafc3306fea3abb38f28033e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "03a82d76-ac12-5694-8643-ca9ecf247b4e": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks",
+      "id": "03a82d76-ac12-5694-8643-ca9ecf247b4e",
+      "name": "gatsby-remark-custom-blocks",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "blocks": {
+          "simple": {
+            "classes": "simple",
+            "title": "optional"
+          },
+          "info": {
+            "classes": "info",
+            "title": "optional"
+          },
+          "alert": {
+            "classes": "alert",
+            "title": "optional"
+          },
+          "notice": {
+            "classes": "notice",
+            "title": "optional"
+          },
+          "imageSmall": {
+            "classes": "image-small"
+          },
+          "imageMedium": {
+            "classes": "image-medium"
+          }
+        }
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks",
+      "packageJson": {
+        "name": "gatsby-remark-custom-blocks",
+        "description": "Gatsby remark plugin for adding custom blocks in markdown",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Mohammad Asad Mohammad <m91.alahmadi@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "remark-custom-blocks",
+            "version": "^2.1.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d7d80b089beff4ff9175f5b946077bb7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d8ee893e-3ec8-583f-a221-b1424e332e2a": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs",
+      "id": "d8ee893e-3ec8-583f-a221-b1424e332e2a",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.4",
+      "pluginOptions": {
+        "plugins": [],
+        "classPrefix": "language-",
+        "inlineCodeMarker": null,
+        "aliases": {},
+        "noInlineHighlight": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1beaa3e9b2cc55eeafeaac5aa5d208ca",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "80533a5b-ad2d-50ff-af51-726674869458": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files",
+      "id": "80533a5b-ad2d-50ff-af51-726674869458",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "876e0b5e4483fce6200a6fd932d95f9b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "90305615-131b-5991-a708-2c2d1c43d946": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants",
+      "id": "90305615-131b-5991-a708-2c2d1c43d946",
+      "name": "gatsby-remark-smartypants",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "retext",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8e3a815ac1dec562d35cba414d47bea4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "51e9fb26a54dd2f73aa8feaaf09b1c39",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "123f675992007e77212c729924433273",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "41e47877-6ee8-5df4-a933-9bce758d3d2a": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-manifest",
+      "id": "41e47877-6ee8-5df4-a933-9bce758d3d2a",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "OGI BLOG | Kota Ogi",
+        "short_name": "OGI BLOG",
+        "start_url": "/",
+        "background_color": "rgb(33, 36, 45)",
+        "theme_color": "#0c9ee4",
+        "display": "minimal-ui",
+        "icon": "content/assets/icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a950a05ce5a94ff9bfc7ca68e55d2533",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "239bbb4f-4f24-55a2-a12d-c1b527b2c186": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-google-analytics",
+      "id": "239bbb4f-4f24-55a2-a12d-c1b527b2c186",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.14",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-131492907-2"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8a098c4100f74339a35b2db5f63f92cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d3ae32ff-752d-59ee-b54e-a86fa6383c72": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-sitemap",
+      "id": "d3ae32ff-752d-59ee-b54e-a86fa6383c72",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "output": "/sitemap.xml"
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "63acacdf9a3d0e37b9686e1f4bdd11d3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5debda5e-6c1c-5d2a-a811-ed8c637e9a96": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-twitter",
+      "id": "5debda5e-6c1c-5d2a-a811-ed8c637e9a96",
+      "name": "gatsby-plugin-twitter",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-twitter",
+      "packageJson": {
+        "name": "gatsby-plugin-twitter",
+        "description": "Loads the Twitter JavaScript for embedding tweets.",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "52a532a5b8cf1795c448e4e2240a5501",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.23",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.23",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "faea9275f5008cb2ba562c33e82326c1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "675900db3df737e4f6d9d21bd0f64d7f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "176dadcc-aa26-5c02-a651-88867760143b": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-styled-components",
+      "id": "176dadcc-aa26-5c02-a651-88867760143b",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": "Guten Ye <ywzhaifei@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f6f2a7d87e15bbcd60bf494fa260234b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "a6412faf6b63b6742d103f9bfe194fe5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog",
+      "packageJson": {
+        "name": "Kota0gi",
+        "description": "A personal blog by @atk420t",
+        "version": "0.1.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "KotaOgi <atk420t@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.118"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.29"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.23"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-twitter",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-remark-code-titles",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-remark-custom-blocks",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-remark-embed-youtube",
+            "version": "^0.0.7"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.4"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-remark-twemoji-shortcut",
+            "version": "^0.10.1"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.4"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.13"
+          },
+          {
+            "name": "netlify-cli",
+            "version": "^2.8.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "twemoji",
+            "version": "^11.3.0"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "^0.0.54"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "75ffc6e991f29d5c100c2ec552d54ac2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "OGI BLOG",
+        "author": "Kota Ogi",
+        "description": "",
+        "siteUrl": "https://blog.ogikota.jp",
+        "social": {
+          "twitter": "atk420t"
+        },
+        "categories": [
+          {
+            "name": "Photo",
+            "slug": "photo",
+            "color": "#0c9ee4"
+          },
+          {
+            "name": "Dev",
+            "slug": "dev",
+            "color": "#f7615f"
+          }
+        ]
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-09T18:19:30.063Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f6c479d7e7d65b3c0788cd18cca99e34",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ca472a8e-20e0-5e15-aeff-78da6b9908f2": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "id": "ca472a8e-20e0-5e15-aeff-78da6b9908f2",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
+        "name": "blog"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4e7d19012f330c8c1513a75deda32da8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "73ef5023-c265-5106-bce3-0d68fb04e2f1": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "id": "73ef5023-c265-5106-bce3-0d68fb04e2f1",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
+        "name": "assets"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "379269b113722672dba3284179afee93",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "83071e8a-f1c3-5f03-948c-cf2f594b6362": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
+      "id": "83071e8a-f1c3-5f03-948c-cf2f594b6362",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.4",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
+            "id": "b34a77ab-7cd6-5037-99ff-8e52a8787038",
+            "name": "gatsby-remark-code-titles",
+            "version": "1.0.2",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube",
+            "id": "9695e12c-d3c9-5911-b8ef-2cb3983edb7a",
+            "name": "gatsby-remark-embed-youtube",
+            "version": "0.0.7",
+            "pluginOptions": {
+              "plugins": [],
+              "width": 650,
+              "height": 365
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images",
+            "id": "0d714d69-14e1-5870-9e32-2fbe40905b54",
+            "name": "gatsby-remark-images",
+            "version": "2.0.6",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 700,
+              "linkImagesToOriginal": false,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe",
+            "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut",
+            "id": "ddb3f007-4d08-5bde-b9d5-b3e80b7c7291",
+            "name": "gatsby-remark-twemoji-shortcut",
+            "version": "0.10.1",
+            "pluginOptions": {
+              "plugins": [],
+              "classname": "twemoji"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks",
+            "id": "03a82d76-ac12-5694-8643-ca9ecf247b4e",
+            "name": "gatsby-remark-custom-blocks",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "blocks": {
+                "simple": {
+                  "classes": "simple",
+                  "title": "optional"
+                },
+                "info": {
+                  "classes": "info",
+                  "title": "optional"
+                },
+                "alert": {
+                  "classes": "alert",
+                  "title": "optional"
+                },
+                "notice": {
+                  "classes": "notice",
+                  "title": "optional"
+                },
+                "imageSmall": {
+                  "classes": "image-small"
+                },
+                "imageMedium": {
+                  "classes": "image-medium"
+                }
+              }
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs",
+            "id": "d8ee893e-3ec8-583f-a221-b1424e332e2a",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.4",
+            "pluginOptions": {
+              "plugins": [],
+              "classPrefix": "language-",
+              "inlineCodeMarker": null,
+              "aliases": {},
+              "noInlineHighlight": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files",
+            "id": "80533a5b-ad2d-50ff-af51-726674869458",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants",
+            "id": "90305615-131b-5991-a708-2c2d1c43d946",
+            "name": "gatsby-remark-smartypants",
+            "version": "2.0.8",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "eba6ca7371d5b610a3f868783d5c882e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "aba6c9d7-9bb8-592c-862e-641f73c4f70a": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-page-creator",
+      "id": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/atk420t/Desktop/Project/ogiblog/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f8bb36b61e8ea00cbac2f8d418984cf9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a6a77ace-7ed8-552f-b5de-110925530e1e": {
+      "id": "a6a77ace-7ed8-552f-b5de-110925530e1e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "58c10e10af3d1fd4697520523b293fdb",
+        "type": "Directory",
+        "description": "Directory \"content/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-03-09T17:40:00.345Z",
+      "accessTime": "2019-03-09T18:19:34.672Z",
+      "changeTime": "2019-03-09T17:40:00.345Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23668829,
+      "blocks": 0,
+      "atimeMs": 1552155574671.8691,
+      "mtimeMs": 1552153200344.5835,
+      "ctimeMs": 1552153200344.5835,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-09T18:19:34.672Z",
+      "mtime": "2019-03-09T17:40:00.345Z",
+      "ctime": "2019-03-09T17:40:00.345Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "41e8bc16-e93b-51f2-a461-70a5f13fc9c6": {
+      "id": "41e8bc16-e93b-51f2-a461-70a5f13fc9c6",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "73d316ddec207c44b1568521c7b94de3",
+        "type": "Directory",
+        "description": "Directory \"content/blog/hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-03-09T17:45:46.560Z",
+      "accessTime": "2019-03-09T18:19:34.674Z",
+      "changeTime": "2019-03-09T17:45:46.560Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23668860,
+      "blocks": 0,
+      "atimeMs": 1552155574673.7256,
+      "mtimeMs": 1552153546559.9797,
+      "ctimeMs": 1552153546559.9797,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-09T18:19:34.674Z",
+      "mtime": "2019-03-09T17:45:46.560Z",
+      "ctime": "2019-03-09T17:45:46.560Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "ae21451f-61ba-5b8c-a435-28e5fc6bf398": {
+      "id": "ae21451f-61ba-5b8c-a435-28e5fc6bf398",
+      "children": [
+        "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a21e264ac91ad6fe1ee9be47011c4c87",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/hello-world/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 83,
+      "prettySize": "83 B",
+      "modifiedTime": "2019-03-09T18:09:15.934Z",
+      "accessTime": "2019-03-09T18:10:26.145Z",
+      "changeTime": "2019-03-09T18:09:15.934Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23088317,
+      "blocks": 8,
+      "atimeMs": 1552155026144.7798,
+      "mtimeMs": 1552154955933.683,
+      "ctimeMs": 1552154955933.683,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-09T18:10:26.145Z",
+      "mtime": "2019-03-09T18:09:15.934Z",
+      "ctime": "2019-03-09T18:09:15.934Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "6ca53f04-5914-5f86-aa97-77b7ffea2437": {
+      "id": "6ca53f04-5914-5f86-aa97-77b7ffea2437",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "606611744cc85a8234b6c68bc66b62ad",
+        "type": "Directory",
+        "description": "Directory \"content/assets\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2019-03-05T06:24:27.914Z",
+      "accessTime": "2019-03-09T18:19:34.696Z",
+      "changeTime": "2019-03-09T16:23:56.384Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content",
+      "base": "assets",
+      "ext": "",
+      "name": "assets",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23668904,
+      "blocks": 0,
+      "atimeMs": 1552155574695.7183,
+      "mtimeMs": 1551767067913.761,
+      "ctimeMs": 1552148636384.2026,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-09T18:19:34.696Z",
+      "mtime": "2019-03-05T06:24:27.914Z",
+      "ctime": "2019-03-09T16:23:56.384Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "4ea1707c-3aad-5902-87b2-b7e6fc699ed2": {
+      "id": "4ea1707c-3aad-5902-87b2-b7e6fc699ed2",
+      "children": [
+        "088f1b98-7a1e-5803-8e2b-dd433bb8a76e"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "40c74a6bacf29db4605325f5eb589340",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"content/assets/icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/assets/icon.png",
+      "relativePath": "icon.png",
+      "extension": "png",
+      "size": 45056,
+      "prettySize": "45.1 kB",
+      "modifiedTime": "2019-03-02T07:36:42.565Z",
+      "accessTime": "2019-03-09T17:51:16.952Z",
+      "changeTime": "2019-03-09T16:23:56.381Z",
+      "birthTime": "2019-03-02T07:36:42.428Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
+      "base": "icon.png",
+      "ext": ".png",
+      "name": "icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23668905,
+      "blocks": 88,
+      "atimeMs": 1552153876951.887,
+      "mtimeMs": 1551512202565.4563,
+      "ctimeMs": 1552148636380.6646,
+      "birthtimeMs": 1551512202427.6035,
+      "atime": "2019-03-09T17:51:16.952Z",
+      "mtime": "2019-03-02T07:36:42.565Z",
+      "ctime": "2019-03-09T16:23:56.381Z",
+      "birthtime": "2019-03-02T07:36:42.428Z"
+    },
+    "088f1b98-7a1e-5803-8e2b-dd433bb8a76e": {
+      "id": "088f1b98-7a1e-5803-8e2b-dd433bb8a76e",
+      "children": [],
+      "parent": "4ea1707c-3aad-5902-87b2-b7e6fc699ed2",
+      "internal": {
+        "contentDigest": "40c74a6bacf29db4605325f5eb589340",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1d709a62-741a-55c3-9e91-a7f06b84e7a4": {
+      "id": "1d709a62-741a-55c3-9e91-a7f06b84e7a4",
+      "children": [
+        "360e35c8-33c3-5e92-bb8b-16ca728d3ae1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "20d83422204ffd4d32a971c955e870d7",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"content/assets/avatar.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/assets/avatar.png",
+      "relativePath": "avatar.png",
+      "extension": "png",
+      "size": 358351,
+      "prettySize": "358 kB",
+      "modifiedTime": "2019-01-06T15:37:31.000Z",
+      "accessTime": "2019-03-09T17:51:16.952Z",
+      "changeTime": "2019-03-09T16:23:56.384Z",
+      "birthTime": "2019-01-06T15:37:31.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
+      "base": "avatar.png",
+      "ext": ".png",
+      "name": "avatar",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23668910,
+      "blocks": 704,
+      "atimeMs": 1552153876951.8801,
+      "mtimeMs": 1546789051000,
+      "ctimeMs": 1552148636384.051,
+      "birthtimeMs": 1546789051000,
+      "atime": "2019-03-09T17:51:16.952Z",
+      "mtime": "2019-01-06T15:37:31.000Z",
+      "ctime": "2019-03-09T16:23:56.384Z",
+      "birthtime": "2019-01-06T15:37:31.000Z"
+    },
+    "360e35c8-33c3-5e92-bb8b-16ca728d3ae1": {
+      "id": "360e35c8-33c3-5e92-bb8b-16ca728d3ae1",
+      "children": [],
+      "parent": "1d709a62-741a-55c3-9e91-a7f06b84e7a4",
+      "internal": {
+        "contentDigest": "20d83422204ffd4d32a971c955e870d7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4": {
+      "id": "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4",
+      "children": [],
+      "parent": "ae21451f-61ba-5b8c-a435-28e5fc6bf398",
+      "internal": {
+        "content": "\n&#x30C6;&#x30B9;&#x30C8;\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "35ec3992921a81a4e8d3514a5c2afd79",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "TEST",
+        "date": "2019-03-10",
+        "category": "dev",
+        "emoji": "💯"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nテスト\n\n",
+      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world/index.md",
+      "fields": {
+        "slug": "/hello-world/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "71b576fc893622f70f18c4a74a4f3652",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/dev/": {
+      "jsonName": "category-dev-fad",
+      "internalComponentName": "ComponentCategoryDev",
+      "path": "/category/dev/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
+      "componentChunkName": "component---src-templates-categories-js",
+      "context": {
+        "category": "dev"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
+      "id": "SitePage /category/dev/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "380f7d190f0f6f6df9b3a6b37b6497c1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "jsonName": "hello-world-8bc",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
+      "componentChunkName": "component---src-templates-post-js",
+      "context": {
+        "slug": "/hello-world/",
+        "relatedPosts": []
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
+      "id": "SitePage /hello-world/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4650cb02f3aa13063c7ebfc3db960217",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+      "pluginCreatorId": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "afc275e70e903327c471576cea390daa",
+        "description": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+      "pluginCreatorId": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c2f32b31aabc18cd31e26db429eeb44c",
+        "description": "aba6c9d7-9bb8-592c-862e-641f73c4f70a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a6d6feb1211f190da468024ef6df67a6",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "3b6c27cfbf26965dee979de3e2f2332d"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/category/design/",
+        "/category/collect/",
+        "/category/self/",
+        "/example-design/",
+        "/markdown-cheatsheet/",
+        "/blazing-fast-writing/",
+        "/module-cannot-resolve/",
+        "/example-collect/",
+        "/",
+        "/404/",
+        "/404.html",
+        "/category/dev/",
+        "/hello-world/",
+        "sq--src-components-bio-js",
+        "sq--src-components-category-label-js",
+        "sq--src-components-json-category-json-ld-js",
+        "sq--src-components-json-home-json-ld-js",
+        "sq--src-components-json-post-json-ld-js",
+        "sq--src-components-seo-js"
+      ],
+      "29a3dd8b-e008-5f90-879a-5e310e026169": [],
+      "99929f2d-46fe-5040-9cd2-3662bb9234d1": [],
+      "e4444a81-a5ef-5b63-ac07-890d2c6931f2": [
+        "/example-design/"
+      ],
+      "b7363df5-a62d-5107-8b03-751e6482f15c": [
+        "/markdown-cheatsheet/"
+      ],
+      "9c1e2727-77b9-5eee-a499-ee2f6e3b3be5": [
+        "/blazing-fast-writing/"
+      ],
+      "bed1b988-57bd-5218-8b20-2633cba76893": [
+        "/module-cannot-resolve/"
+      ],
+      "1bfa32ac-b2e0-51d5-8d55-be7c6265da9d": [
+        "/example-collect/"
+      ],
+      "567716a5-8046-5344-8af2-2af42714bf64": [],
+      "1d709a62-741a-55c3-9e91-a7f06b84e7a4": [
+        "sq--src-components-bio-js"
+      ],
+      "360e35c8-33c3-5e92-bb8b-16ca728d3ae1": [
+        "sq--src-components-bio-js"
+      ],
+      "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4": [
+        "/hello-world/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/category/design/",
+        "/category/collect/",
+        "/category/self/",
+        "/",
+        "/category/dev/",
+        null
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-json-category-json-ld-js": 4218501782,
+    "sq--src-components-json-home-json-ld-js": 1777364483,
+    "sq--src-components-category-label-js": 1330303572,
+    "sq--src-components-json-post-json-ld-js": 2072087376,
+    "sq--src-components-seo-js": 585967579,
+    "404-22d": "556/path---404-22-d-bce-Sh56yaDIDJskF4nXNTp6KfHFgyk",
+    "index": "806/path---index-6a9-czZ46KJLIegXEBNmvLeHq8gD0",
+    "404-html-516": "201/path---404-html-516-62a-Sh56yaDIDJskF4nXNTp6KfHFgyk",
+    "category-design-dee": "941/path---category-design-dee-f3f-s3TV99BRQy339F8rsURSjRnIFw",
+    "category-dev-fad": "984/path---category-dev-fad-fbf-Wdg5YRrpaPUwSeVbdqMvcu8Fqs",
+    "category-collect-ce8": "157/path---category-collect-ce-8-d17-IONKtr0CZ7K2mvkRMTjyXuShJ00",
+    "category-self-50e": "54/path---category-self-50-e-cf2-u7rFFRmSRxLdGAhDv0bMG1ZFkI",
+    "sq--src-components-bio-js": 2447670510,
+    "module-cannot-resolve-755": "497/path---module-cannot-resolve-755-d30-tB2tf1GoSrSnN0EsanrFIBDi2Qc",
+    "example-design-005": "622/path---example-design-005-d65-v1L7JpMFMArlYYWcAINDrFk830c",
+    "example-collect-737": "653/path---example-collect-737-00e-Szx235YJVi9RjGXumChb211k",
+    "blazing-fast-writing-bff": "15/path---blazing-fast-writing-bff-277-hmpigEKkdQmf9pcapwqGFLvM1g",
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "markdown-cheatsheet-7d1": "524/path---markdown-cheatsheet-7-d-1-708-g9dCy5fxwGAf9u82VLVnD3V4dPM",
+    "hello-world-8bc": "182/path---hello-world-8-bc-b62-z5GFmLRGvkFG8M6ebktij8Vi8c",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js"
+    },
+    "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js": {
+      "query": "query BlogPostByCategory(\n  $category: String\n) {\n  site {\n    siteMetadata {\n      categories {\n        name\n        slug\n        color\n      }\n    }\n  }\n  allMarkdownRemark(limit: 1000, sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {category: {eq: $category}}}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"YYYY.MM.DD\")\n          title\n          emoji\n          category\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js"
+    },
+    "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js": {
+      "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"YYYY.MM.DD\")\n      emoji\n      category\n    }\n  }\n}\n",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js"
+    },
+    "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js": {
+      "query": "query usersAtk420TDesktopProjectOgiblogSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/404.js"
+    },
+    "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js": {
+      "query": "query usersAtk420TDesktopProjectOgiblogSrcPagesIndexJs2640445301 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"YYYY.MM.DD\")\n          title\n          emoji\n          category\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-bio-js": {
+      "name": "BioQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/Bio.js",
+      "id": "sq--src-components-bio-js",
+      "jsonName": "sq--src-components-bio-js",
+      "query": "query BioQuery {\n  avatar: file(absolutePath: {regex: \"/avatar.png/\"}) {\n    childImageSharp {\n      fixed(width: 70, height: 70) {\n        ...GatsbyImageSharpFixed\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      author\n      social {\n        twitter\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
+      "hash": 2447670510
+    },
+    "sq--src-components-category-label-js": {
+      "name": "categoryQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/CategoryLabel.js",
+      "id": "sq--src-components-category-label-js",
+      "jsonName": "sq--src-components-category-label-js",
+      "query": "query categoryQuery {\n  site {\n    siteMetadata {\n      categories {\n        name\n        slug\n        color\n      }\n    }\n  }\n}\n",
+      "hash": 1330303572
+    },
+    "sq--src-components-json-category-json-ld-js": {
+      "name": "jsonLdCategoryQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/CategoryJsonLd.js",
+      "id": "sq--src-components-json-category-json-ld-js",
+      "jsonName": "sq--src-components-json-category-json-ld-js",
+      "query": "query jsonLdCategoryQuery {\n  site {\n    siteMetadata {\n      siteUrl\n    }\n  }\n}\n",
+      "hash": 4218501782
+    },
+    "sq--src-components-json-home-json-ld-js": {
+      "name": "JsonLdHomeQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/HomeJsonLd.js",
+      "id": "sq--src-components-json-home-json-ld-js",
+      "jsonName": "sq--src-components-json-home-json-ld-js",
+      "query": "query JsonLdHomeQuery {\n  site {\n    siteMetadata {\n      title\n      siteUrl\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1777364483
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/SEO.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      siteUrl\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 585967579
+    },
+    "sq--src-components-json-post-json-ld-js": {
+      "name": "JsonLdPostQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/PostJsonLd.js",
+      "id": "sq--src-components-json-post-json-ld-js",
+      "jsonName": "sq--src-components-json-post-json-ld-js",
+      "query": "query JsonLdPostQuery {\n  site {\n    siteMetadata {\n      siteUrl\n      author\n      categories {\n        name\n        slug\n      }\n    }\n  }\n}\n",
+      "hash": 2072087376
+    }
+  }
+}
