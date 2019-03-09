@@ -169,7 +169,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        description
         date(formatString: "YYYY.MM.DD")
         emoji
         category
