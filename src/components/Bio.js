@@ -98,7 +98,7 @@ const Bio = () => {
             </BioHeader>
             <BioMain>
               <BioText>
-                高専生dayo
+                2001年生まれ.高専情報工学科在籍.
               </BioText>
               <BioLinks>
                 <BioLink href="https://twitter.com/atk420t">
