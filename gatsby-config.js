@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `OGI BLOG`,
+    title: `OGIBLOG | ブログ`,
     author: `Kota Ogi`,
     description: ``,
     siteUrl: `https://blog.ogikota.jp`,
@@ -9,6 +9,10 @@ module.exports = {
     },
     categories: [
       {
+        name: "Self",
+        slug: "self",
+        color: "#f7ad5e"
+      },{
         name: "Photo",
         slug: "photo",
         color: "#0c9ee4"
@@ -114,7 +118,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `OGI BLOG | Kota Ogi`,
+        name: `OGI BLOG | ブログ`,
         short_name: `OGI BLOG`,
         start_url: `/`,
         background_color: `rgb(33, 36, 45)`,

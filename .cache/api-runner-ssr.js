@@ -1,6 +1,6 @@
 var plugins = [{
       plugin: require('/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"OGI BLOG | Kota Ogi","short_name":"OGI BLOG","start_url":"/","background_color":"rgb(33, 36, 45)","theme_color":"#0c9ee4","display":"minimal-ui","icon":"content/assets/icon.png"},
+      options: {"plugins":[],"name":"OGI BLOG | ブログ","short_name":"OGI BLOG","start_url":"/","background_color":"rgb(33, 36, 45)","theme_color":"#0c9ee4","display":"minimal-ui","icon":"content/assets/icon.png"},
     },{
       plugin: require('/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-131492907-2"},

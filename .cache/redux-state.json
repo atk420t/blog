@@ -222,6 +222,558 @@
         "owner": "internal-data-bridge"
       }
     },
+    "ca472a8e-20e0-5e15-aeff-78da6b9908f2": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "id": "ca472a8e-20e0-5e15-aeff-78da6b9908f2",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
+        "name": "blog"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4e7d19012f330c8c1513a75deda32da8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "73ef5023-c265-5106-bce3-0d68fb04e2f1": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "id": "73ef5023-c265-5106-bce3-0d68fb04e2f1",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
+        "name": "assets"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "379269b113722672dba3284179afee93",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "83071e8a-f1c3-5f03-948c-cf2f594b6362": {
+      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
+      "id": "83071e8a-f1c3-5f03-948c-cf2f594b6362",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.4",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
+            "id": "b34a77ab-7cd6-5037-99ff-8e52a8787038",
+            "name": "gatsby-remark-code-titles",
+            "version": "1.0.2",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube",
+            "id": "9695e12c-d3c9-5911-b8ef-2cb3983edb7a",
+            "name": "gatsby-remark-embed-youtube",
+            "version": "0.0.7",
+            "pluginOptions": {
+              "plugins": [],
+              "width": 650,
+              "height": 365
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images",
+            "id": "0d714d69-14e1-5870-9e32-2fbe40905b54",
+            "name": "gatsby-remark-images",
+            "version": "2.0.6",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 700,
+              "linkImagesToOriginal": false,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe",
+            "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut",
+            "id": "ddb3f007-4d08-5bde-b9d5-b3e80b7c7291",
+            "name": "gatsby-remark-twemoji-shortcut",
+            "version": "0.10.1",
+            "pluginOptions": {
+              "plugins": [],
+              "classname": "twemoji"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks",
+            "id": "03a82d76-ac12-5694-8643-ca9ecf247b4e",
+            "name": "gatsby-remark-custom-blocks",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "blocks": {
+                "simple": {
+                  "classes": "simple",
+                  "title": "optional"
+                },
+                "info": {
+                  "classes": "info",
+                  "title": "optional"
+                },
+                "alert": {
+                  "classes": "alert",
+                  "title": "optional"
+                },
+                "notice": {
+                  "classes": "notice",
+                  "title": "optional"
+                },
+                "imageSmall": {
+                  "classes": "image-small"
+                },
+                "imageMedium": {
+                  "classes": "image-medium"
+                }
+              }
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs",
+            "id": "d8ee893e-3ec8-583f-a221-b1424e332e2a",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.4",
+            "pluginOptions": {
+              "plugins": [],
+              "classPrefix": "language-",
+              "inlineCodeMarker": null,
+              "aliases": {},
+              "noInlineHighlight": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files",
+            "id": "80533a5b-ad2d-50ff-af51-726674869458",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants",
+            "id": "90305615-131b-5991-a708-2c2d1c43d946",
+            "name": "gatsby-remark-smartypants",
+            "version": "2.0.8",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "eba6ca7371d5b610a3f868783d5c882e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "b34a77ab-7cd6-5037-99ff-8e52a8787038": {
       "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
       "id": "b34a77ab-7cd6-5037-99ff-8e52a8787038",
@@ -1206,14 +1758,14 @@
         "owner": "internal-data-bridge"
       }
     },
-    "41e47877-6ee8-5df4-a933-9bce758d3d2a": {
+    "a5907959-7a03-5866-894e-50aab9cbae8a": {
       "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-manifest",
-      "id": "41e47877-6ee8-5df4-a933-9bce758d3d2a",
+      "id": "a5907959-7a03-5866-894e-50aab9cbae8a",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.17",
       "pluginOptions": {
         "plugins": [],
-        "name": "OGI BLOG | Kota Ogi",
+        "name": "OGI BLOG | ブログ",
         "short_name": "OGI BLOG",
         "start_url": "/",
         "background_color": "rgb(33, 36, 45)",
@@ -1289,7 +1841,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a950a05ce5a94ff9bfc7ca68e55d2533",
+        "contentDigest": "62de208e6562e4362dfa4e5f346e0ec6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1765,7 +2317,7 @@
       "resolve": "/Users/atk420t/Desktop/Project/ogiblog",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "a6412faf6b63b6742d103f9bfe194fe5",
+      "version": "11ae70039d404d018a390be70600c83a",
       "pluginOptions": {
         "plugins": []
       },
@@ -1920,593 +2472,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "75ffc6e991f29d5c100c2ec552d54ac2",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "Site": {
-      "siteMetadata": {
-        "title": "OGI BLOG",
-        "author": "Kota Ogi",
-        "description": "",
-        "siteUrl": "https://blog.ogikota.jp",
-        "social": {
-          "twitter": "atk420t"
-        },
-        "categories": [
-          {
-            "name": "Photo",
-            "slug": "photo",
-            "color": "#0c9ee4"
-          },
-          {
-            "name": "Dev",
-            "slug": "dev",
-            "color": "#f7615f"
-          }
-        ]
-      },
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-03-09T18:27:31.670Z",
-      "id": "Site",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "98eda6b1858a890f6be11fd9304fe63e",
-        "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "ca472a8e-20e0-5e15-aeff-78da6b9908f2": {
-      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
-      "id": "ca472a8e-20e0-5e15-aeff-78da6b9908f2",
-      "name": "gatsby-source-filesystem",
-      "version": "2.0.20",
-      "pluginOptions": {
-        "plugins": [],
-        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
-        "name": "blog"
-      },
-      "nodeAPIs": [
-        "sourceNodes",
-        "setFieldsOnGraphQLNodeType"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
-      "packageJson": {
-        "name": "gatsby-source-filesystem",
-        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "2.0.20",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "better-queue",
-            "version": "^3.8.7"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "chokidar",
-            "version": "^1.7.0"
-          },
-          {
-            "name": "file-type",
-            "version": "^10.2.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "got",
-            "version": "^7.1.0"
-          },
-          {
-            "name": "md5-file",
-            "version": "^3.1.1"
-          },
-          {
-            "name": "mime",
-            "version": "^2.2.0"
-          },
-          {
-            "name": "pretty-bytes",
-            "version": "^4.0.2"
-          },
-          {
-            "name": "progress",
-            "version": "^1.1.8"
-          },
-          {
-            "name": "read-chunk",
-            "version": "^3.0.0"
-          },
-          {
-            "name": "slash",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "valid-url",
-            "version": "^1.0.9"
-          },
-          {
-            "name": "xstate",
-            "version": "^3.1.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "4e7d19012f330c8c1513a75deda32da8",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "73ef5023-c265-5106-bce3-0d68fb04e2f1": {
-      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
-      "id": "73ef5023-c265-5106-bce3-0d68fb04e2f1",
-      "name": "gatsby-source-filesystem",
-      "version": "2.0.20",
-      "pluginOptions": {
-        "plugins": [],
-        "path": "/Users/atk420t/Desktop/Project/ogiblog/content/assets",
-        "name": "assets"
-      },
-      "nodeAPIs": [
-        "sourceNodes",
-        "setFieldsOnGraphQLNodeType"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-source-filesystem",
-      "packageJson": {
-        "name": "gatsby-source-filesystem",
-        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "2.0.20",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "better-queue",
-            "version": "^3.8.7"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "chokidar",
-            "version": "^1.7.0"
-          },
-          {
-            "name": "file-type",
-            "version": "^10.2.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "got",
-            "version": "^7.1.0"
-          },
-          {
-            "name": "md5-file",
-            "version": "^3.1.1"
-          },
-          {
-            "name": "mime",
-            "version": "^2.2.0"
-          },
-          {
-            "name": "pretty-bytes",
-            "version": "^4.0.2"
-          },
-          {
-            "name": "progress",
-            "version": "^1.1.8"
-          },
-          {
-            "name": "read-chunk",
-            "version": "^3.0.0"
-          },
-          {
-            "name": "slash",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "valid-url",
-            "version": "^1.0.9"
-          },
-          {
-            "name": "xstate",
-            "version": "^3.1.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "379269b113722672dba3284179afee93",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "83071e8a-f1c3-5f03-948c-cf2f594b6362": {
-      "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
-      "id": "83071e8a-f1c3-5f03-948c-cf2f594b6362",
-      "name": "gatsby-transformer-remark",
-      "version": "2.2.4",
-      "pluginOptions": {
-        "plugins": [
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles",
-            "id": "b34a77ab-7cd6-5037-99ff-8e52a8787038",
-            "name": "gatsby-remark-code-titles",
-            "version": "1.0.2",
-            "pluginOptions": {
-              "plugins": []
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-code-titles"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube",
-            "id": "9695e12c-d3c9-5911-b8ef-2cb3983edb7a",
-            "name": "gatsby-remark-embed-youtube",
-            "version": "0.0.7",
-            "pluginOptions": {
-              "plugins": [],
-              "width": 650,
-              "height": 365
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-embed-youtube"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images",
-            "id": "0d714d69-14e1-5870-9e32-2fbe40905b54",
-            "name": "gatsby-remark-images",
-            "version": "2.0.6",
-            "pluginOptions": {
-              "plugins": [],
-              "maxWidth": 700,
-              "linkImagesToOriginal": false,
-              "wrapperStyle": "",
-              "backgroundColor": "white",
-              "showCaptions": false,
-              "pathPrefix": "",
-              "withWebp": false
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-images"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe",
-            "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
-            "name": "gatsby-remark-responsive-iframe",
-            "version": "2.0.9",
-            "pluginOptions": {
-              "plugins": [],
-              "wrapperStyle": "margin-bottom: 1.0725rem"
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-responsive-iframe"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut",
-            "id": "ddb3f007-4d08-5bde-b9d5-b3e80b7c7291",
-            "name": "gatsby-remark-twemoji-shortcut",
-            "version": "0.10.1",
-            "pluginOptions": {
-              "plugins": [],
-              "classname": "twemoji"
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-twemoji-shortcut"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks",
-            "id": "03a82d76-ac12-5694-8643-ca9ecf247b4e",
-            "name": "gatsby-remark-custom-blocks",
-            "version": "2.0.5",
-            "pluginOptions": {
-              "plugins": [],
-              "blocks": {
-                "simple": {
-                  "classes": "simple",
-                  "title": "optional"
-                },
-                "info": {
-                  "classes": "info",
-                  "title": "optional"
-                },
-                "alert": {
-                  "classes": "alert",
-                  "title": "optional"
-                },
-                "notice": {
-                  "classes": "notice",
-                  "title": "optional"
-                },
-                "imageSmall": {
-                  "classes": "image-small"
-                },
-                "imageMedium": {
-                  "classes": "image-medium"
-                }
-              }
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-custom-blocks"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs",
-            "id": "d8ee893e-3ec8-583f-a221-b1424e332e2a",
-            "name": "gatsby-remark-prismjs",
-            "version": "3.2.4",
-            "pluginOptions": {
-              "plugins": [],
-              "classPrefix": "language-",
-              "inlineCodeMarker": null,
-              "aliases": {},
-              "noInlineHighlight": false
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-prismjs"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files",
-            "id": "80533a5b-ad2d-50ff-af51-726674869458",
-            "name": "gatsby-remark-copy-linked-files",
-            "version": "2.0.9",
-            "pluginOptions": {
-              "plugins": [],
-              "ignoreFileExtensions": [
-                "png",
-                "jpg",
-                "jpeg",
-                "bmp",
-                "tiff"
-              ]
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-copy-linked-files"
-          },
-          {
-            "resolve": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants",
-            "id": "90305615-131b-5991-a708-2c2d1c43d946",
-            "name": "gatsby-remark-smartypants",
-            "version": "2.0.8",
-            "pluginOptions": {
-              "plugins": []
-            },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-remark-smartypants"
-          }
-        ]
-      },
-      "nodeAPIs": [
-        "onCreateNode",
-        "setFieldsOnGraphQLNodeType"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-transformer-remark",
-      "packageJson": {
-        "name": "gatsby-transformer-remark",
-        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
-        "version": "2.2.4",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "markdown",
-          "remark"
-        ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "gray-matter",
-            "version": "^4.0.0"
-          },
-          {
-            "name": "hast-util-raw",
-            "version": "^4.0.0"
-          },
-          {
-            "name": "hast-util-to-html",
-            "version": "^4.0.0"
-          },
-          {
-            "name": "lodash",
-            "version": "^4.17.10"
-          },
-          {
-            "name": "mdast-util-to-hast",
-            "version": "^3.0.0"
-          },
-          {
-            "name": "mdast-util-toc",
-            "version": "^2.0.1"
-          },
-          {
-            "name": "remark",
-            "version": "^9.0.0"
-          },
-          {
-            "name": "remark-parse",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "remark-retext",
-            "version": "^3.1.0"
-          },
-          {
-            "name": "remark-stringify",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "retext-english",
-            "version": "^3.0.0"
-          },
-          {
-            "name": "sanitize-html",
-            "version": "^1.18.2"
-          },
-          {
-            "name": "underscore.string",
-            "version": "^3.3.5"
-          },
-          {
-            "name": "unified",
-            "version": "^6.1.5"
-          },
-          {
-            "name": "unist-util-remove-position",
-            "version": "^1.1.2"
-          },
-          {
-            "name": "unist-util-select",
-            "version": "^1.5.0"
-          },
-          {
-            "name": "unist-util-visit",
-            "version": "^1.3.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.88"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "eba6ca7371d5b610a3f868783d5c882e",
+        "contentDigest": "23fb6fc426ca835e40595832b17f4224",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2611,12 +2577,51 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Site": {
+      "siteMetadata": {
+        "title": "OGIBLOG | ブログ",
+        "author": "Kota Ogi",
+        "description": "",
+        "siteUrl": "https://blog.ogikota.jp",
+        "social": {
+          "twitter": "atk420t"
+        },
+        "categories": [
+          {
+            "name": "Self",
+            "slug": "self",
+            "color": "#f7ad5e"
+          },
+          {
+            "name": "Photo",
+            "slug": "photo",
+            "color": "#0c9ee4"
+          },
+          {
+            "name": "Dev",
+            "slug": "dev",
+            "color": "#f7615f"
+          }
+        ]
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-10T18:21:14.759Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "00ee263e61eae1e992aaeb72938489ae",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
     "a6a77ace-7ed8-552f-b5de-110925530e1e": {
       "id": "a6a77ace-7ed8-552f-b5de-110925530e1e",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7a66bab55dd69d4f9d3e0ba70135d341",
+        "contentDigest": "25d099d151788cdec63b2252b526cbc7",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2627,9 +2632,9 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-03-09T17:40:00.345Z",
-      "accessTime": "2019-03-09T18:27:36.543Z",
-      "changeTime": "2019-03-09T17:40:00.345Z",
+      "modifiedTime": "2019-03-10T18:07:23.053Z",
+      "accessTime": "2019-03-10T18:21:19.831Z",
+      "changeTime": "2019-03-10T18:07:23.053Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
       "dir": "/Users/atk420t/Desktop/Project/ogiblog/content",
@@ -2646,40 +2651,40 @@
       "blksize": 4096,
       "ino": 23668829,
       "blocks": 0,
-      "atimeMs": 1552156056543.4229,
-      "mtimeMs": 1552153200344.5835,
-      "ctimeMs": 1552153200344.5835,
+      "atimeMs": 1552242079831.0552,
+      "mtimeMs": 1552241243052.9543,
+      "ctimeMs": 1552241243052.9543,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-09T18:27:36.543Z",
-      "mtime": "2019-03-09T17:40:00.345Z",
-      "ctime": "2019-03-09T17:40:00.345Z",
+      "atime": "2019-03-10T18:21:19.831Z",
+      "mtime": "2019-03-10T18:07:23.053Z",
+      "ctime": "2019-03-10T18:07:23.053Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
     },
-    "41e8bc16-e93b-51f2-a461-70a5f13fc9c6": {
-      "id": "41e8bc16-e93b-51f2-a461-70a5f13fc9c6",
+    "0d9b9e30-2169-56c8-a352-9fa21a7561e1": {
+      "id": "0d9b9e30-2169-56c8-a352-9fa21a7561e1",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5f7458ccec75dbbd8f96b19be9c701c5",
+        "contentDigest": "0a1c4888ad54b467c738994a9ff83ee1",
         "type": "Directory",
-        "description": "Directory \"content/blog/hello-world\"",
+        "description": "Directory \"content/blog/hello-blog\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world",
-      "relativePath": "hello-world",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog",
+      "relativePath": "hello-blog",
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-03-09T17:45:46.560Z",
-      "accessTime": "2019-03-09T18:27:36.545Z",
-      "changeTime": "2019-03-09T17:45:46.560Z",
+      "accessTime": "2019-03-10T18:21:19.833Z",
+      "changeTime": "2019-03-10T18:07:23.053Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
       "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
-      "base": "hello-world",
+      "base": "hello-blog",
       "ext": "",
-      "name": "hello-world",
+      "name": "hello-blog",
       "relativeDirectory": "",
       "dev": 16777221,
       "mode": 16877,
@@ -2690,44 +2695,44 @@
       "blksize": 4096,
       "ino": 23668860,
       "blocks": 0,
-      "atimeMs": 1552156056545.253,
+      "atimeMs": 1552242079832.7344,
       "mtimeMs": 1552153546559.9797,
-      "ctimeMs": 1552153546559.9797,
+      "ctimeMs": 1552241243052.954,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-09T18:27:36.545Z",
+      "atime": "2019-03-10T18:21:19.833Z",
       "mtime": "2019-03-09T17:45:46.560Z",
-      "ctime": "2019-03-09T17:45:46.560Z",
+      "ctime": "2019-03-10T18:07:23.053Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
     },
-    "ae21451f-61ba-5b8c-a435-28e5fc6bf398": {
-      "id": "ae21451f-61ba-5b8c-a435-28e5fc6bf398",
+    "767ff376-4a6c-58b9-85db-67bb8014e8c6": {
+      "id": "767ff376-4a6c-58b9-85db-67bb8014e8c6",
       "children": [
-        "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4"
+        "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "3ce9e5ce3cda63bf7d362fbb2c74c15f",
+        "contentDigest": "72c9678c0bccb6e65b27c148def168db",
         "type": "File",
         "mediaType": "text/markdown",
-        "description": "File \"content/blog/hello-world/index.md\"",
+        "description": "File \"content/blog/hello-blog/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world/index.md",
-      "relativePath": "hello-world/index.md",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog/index.md",
+      "relativePath": "hello-blog/index.md",
       "extension": "md",
-      "size": 83,
-      "prettySize": "83 B",
-      "modifiedTime": "2019-03-09T18:27:11.200Z",
-      "accessTime": "2019-03-09T18:27:21.104Z",
-      "changeTime": "2019-03-09T18:27:11.200Z",
+      "size": 1050,
+      "prettySize": "1.05 kB",
+      "modifiedTime": "2019-03-10T18:20:57.381Z",
+      "accessTime": "2019-03-10T18:20:57.393Z",
+      "changeTime": "2019-03-10T18:20:57.381Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
-      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "relativeDirectory": "hello-world",
+      "relativeDirectory": "hello-blog",
       "dev": 16777221,
       "mode": 33261,
       "nlink": 1,
@@ -2737,21 +2742,47 @@
       "blksize": 4096,
       "ino": 23088317,
       "blocks": 8,
-      "atimeMs": 1552156041103.9883,
-      "mtimeMs": 1552156031199.7998,
-      "ctimeMs": 1552156031199.7998,
+      "atimeMs": 1552242057392.5854,
+      "mtimeMs": 1552242057380.666,
+      "ctimeMs": 1552242057380.666,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-09T18:27:21.104Z",
-      "mtime": "2019-03-09T18:27:11.200Z",
-      "ctime": "2019-03-09T18:27:11.200Z",
+      "atime": "2019-03-10T18:20:57.393Z",
+      "mtime": "2019-03-10T18:20:57.381Z",
+      "ctime": "2019-03-10T18:20:57.381Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c": {
+      "id": "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c",
+      "children": [],
+      "parent": "767ff376-4a6c-58b9-85db-67bb8014e8c6",
+      "internal": {
+        "content": "\n&#x4EE5;&#x524D;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x3068;&#x3057;&#x3066;&#x904B;&#x55B6;&#x3059;&#x308B;&#x306B;&#x3042;&#x305F;&#x308A;&#x3001;&#x500B;&#x4EBA;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x4F5C;&#x308A;&#x305F;&#x3044;&#x3068;&#x8003;&#x3048;&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x306F;&#x3058;&#x3081;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n## &#x306A;&#x306B;&#x3067;&#x69CB;&#x7BC9;&#x3057;&#x305F;&#x304B;\t\n&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x306F;Gatsby&#x3068;Netlify&#x3092;&#x4F7F;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;  \n&#x500B;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;&#x3068;&#x306A;&#x308C;&#x3070;&#x6700;&#x8FD1;&#x3067;&#x306F;note&#x3084;&#x306F;&#x3066;&#x30D6;&#x30ED;&#x304C;&#x4E3B;&#x6D41;&#x306A;&#x306E;&#x304B;&#x306A;&#x3068;&#x306F;&#x601D;&#x3044;&#x307E;&#x3059;&#x304C;&#x3001;&#x50D5;&#x81EA;&#x8EAB;&#x30D6;&#x30ED;&#x30B0;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x306B;&#x624B;&#x3092;&#x51FA;&#x3059;&#x306E;&#x306B;&#x62B5;&#x6297;&#x304C;&#x3042;&#x308A;&#x4ECA;&#x307E;&#x3067;&#x306F;WordPress&#x3092;&#x4F7F;&#x3063;&#x3066;&#x3044;&#x307E;&#x3057;&#x305F;&#x3002;  \n&#x4ECA;&#x56DE;Gatsby&#x306B;&#x624B;&#x3092;&#x51FA;&#x3057;&#x305F;&#x306E;&#x306F;CatNose&#x3055;&#x3093;(@catnose99)&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x304C;&#x3053;&#x308C;&#x306B;&#x3088;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x305F;&#x306E;&#x304C;&#x304D;&#x3063;&#x304B;&#x3051;&#x3067;&#x3059;&#x3002;&#x3000;GitHub&#x306B;&#x81EA;&#x7531;&#x306B;&#x4F7F;&#x3048;&#x308B;(&#x753B;&#x50CF;&#x3068;&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x4EE5;&#x5916;)&#x30B3;&#x30FC;&#x30C9;&#x304C;&#x3042;&#x3063;&#x305F;&#x306E;&#x3067;&#x4F7F;&#x308F;&#x305B;&#x3066;&#x3044;&#x305F;&#x3060;&#x304D;&#x307E;&#x3057;&#x305F;&#x3002;  \nGatsby&#x306B;&#x3059;&#x308B;&#x3053;&#x3068;&#x3067;&#x308F;&#x3056;&#x308F;&#x3056;CMS&#x306B;&#x30A2;&#x30AF;&#x30BB;&#x30B9;&#x3059;&#x308B;&#x3053;&#x3068;&#x306A;&#x304F;&#x8A18;&#x4E8B;&#x304C;&#x30ED;&#x30FC;&#x30AB;&#x30EB;&#x74B0;&#x5883;&#x3067;&#x3082;&#x57F7;&#x7B46;&#x3067;&#x304D;&#x308B;&#x305F;&#x3081;&#x3001;&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA;&#x3057;&#x3066;&#x69CB;&#x7BC9;&#x3059;&#x308B;&#x3053;&#x3068;&#x3092;&#x6C7A;&#x610F;&#x3057;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "235f1f29c5a328e40bb667a80cda6ccb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "ブログをはじめました！",
+        "date": "2019-03-11",
+        "category": "self",
+        "emoji": "✏"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n以前のブログをメディアとして運営するにあたり、個人のブログを作りたいと考えこのブログをはじめました。  \n\n## なにで構築したか\t\nこのブログはGatsbyとNetlifyを使って構築されています。  \n個人ブログとなれば最近ではnoteやはてブロが主流なのかなとは思いますが、僕自身ブログサービスに手を出すのに抵抗があり今まではWordPressを使っていました。  \n今回Gatsbyに手を出したのはCatNoseさん(@catnose99)のブログがこれによって構築されていたのがきっかけです。　GitHubに自由に使える(画像とコンテンツ以外)コードがあったので使わせていただきました。  \nGatsbyにすることでわざわざCMSにアクセスすることなく記事がローカル環境でも執筆できるため、カスタマイズして構築することを決意しました。  \n\n\n",
+      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog/index.md",
+      "fields": {
+        "slug": "/hello-blog/"
+      }
     },
     "6ca53f04-5914-5f86-aa97-77b7ffea2437": {
       "id": "6ca53f04-5914-5f86-aa97-77b7ffea2437",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "45e068b2e640301738cc7e85f6096fec",
+        "contentDigest": "9d16b4c317de5c8003c9d9eb685cd00d",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -2763,7 +2794,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-03-05T06:24:27.914Z",
-      "accessTime": "2019-03-09T18:27:36.565Z",
+      "accessTime": "2019-03-10T18:21:19.854Z",
       "changeTime": "2019-03-09T16:23:56.384Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
@@ -2781,11 +2812,11 @@
       "blksize": 4096,
       "ino": 23668904,
       "blocks": 0,
-      "atimeMs": 1552156056564.8665,
+      "atimeMs": 1552242079853.6965,
       "mtimeMs": 1551767067913.761,
       "ctimeMs": 1552148636384.2026,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-09T18:27:36.565Z",
+      "atime": "2019-03-10T18:21:19.854Z",
       "mtime": "2019-03-05T06:24:27.914Z",
       "ctime": "2019-03-09T16:23:56.384Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
@@ -2810,7 +2841,7 @@
       "size": 45056,
       "prettySize": "45.1 kB",
       "modifiedTime": "2019-03-02T07:36:42.565Z",
-      "accessTime": "2019-03-09T17:51:16.952Z",
+      "accessTime": "2019-03-10T18:21:19.854Z",
       "changeTime": "2019-03-09T16:23:56.381Z",
       "birthTime": "2019-03-02T07:36:42.428Z",
       "root": "/",
@@ -2828,11 +2859,11 @@
       "blksize": 4096,
       "ino": 23668905,
       "blocks": 88,
-      "atimeMs": 1552153876951.887,
+      "atimeMs": 1552242079853.774,
       "mtimeMs": 1551512202565.4563,
       "ctimeMs": 1552148636380.6646,
       "birthtimeMs": 1551512202427.6035,
-      "atime": "2019-03-09T17:51:16.952Z",
+      "atime": "2019-03-10T18:21:19.854Z",
       "mtime": "2019-03-02T07:36:42.565Z",
       "ctime": "2019-03-09T16:23:56.381Z",
       "birthtime": "2019-03-02T07:36:42.428Z"
@@ -2867,7 +2898,7 @@
       "size": 358351,
       "prettySize": "358 kB",
       "modifiedTime": "2019-01-06T15:37:31.000Z",
-      "accessTime": "2019-03-09T17:51:16.952Z",
+      "accessTime": "2019-03-10T18:21:19.854Z",
       "changeTime": "2019-03-09T16:23:56.384Z",
       "birthTime": "2019-01-06T15:37:31.000Z",
       "root": "/",
@@ -2885,11 +2916,11 @@
       "blksize": 4096,
       "ino": 23668910,
       "blocks": 704,
-      "atimeMs": 1552153876951.8801,
+      "atimeMs": 1552242079853.7656,
       "mtimeMs": 1546789051000,
       "ctimeMs": 1552148636384.051,
       "birthtimeMs": 1546789051000,
-      "atime": "2019-03-09T17:51:16.952Z",
+      "atime": "2019-03-10T18:21:19.854Z",
       "mtime": "2019-01-06T15:37:31.000Z",
       "ctime": "2019-03-09T16:23:56.384Z",
       "birthtime": "2019-01-06T15:37:31.000Z"
@@ -2902,32 +2933,6 @@
         "contentDigest": "20d83422204ffd4d32a971c955e870d7",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4": {
-      "id": "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4",
-      "children": [],
-      "parent": "ae21451f-61ba-5b8c-a435-28e5fc6bf398",
-      "internal": {
-        "content": "\n&#x30C6;&#x30B9;&#x30C8;\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "309009c5882f3250efab5329c5cbb923",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "TEST",
-        "date": "2019-03-10",
-        "category": "dev",
-        "emoji": "🐵"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nテスト\n\n",
-      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-world/index.md",
-      "fields": {
-        "slug": "/hello-world/"
       }
     },
     "SitePage /offline-plugin-app-shell-fallback/": {
@@ -2950,47 +2955,47 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /category/dev/": {
-      "jsonName": "category-dev-fad",
-      "internalComponentName": "ComponentCategoryDev",
-      "path": "/category/dev/",
+    "SitePage /category/self/": {
+      "jsonName": "category-self-50e",
+      "internalComponentName": "ComponentCategorySelf",
+      "path": "/category/self/",
       "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
       "componentChunkName": "component---src-templates-categories-js",
       "context": {
-        "category": "dev"
+        "category": "self"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
-      "id": "SitePage /category/dev/",
+      "id": "SitePage /category/self/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "380f7d190f0f6f6df9b3a6b37b6497c1",
+        "contentDigest": "36fd1b6cb3c2121e12a95a6e35f32429",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /hello-world/": {
-      "jsonName": "hello-world-8bc",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
+    "SitePage /hello-blog/": {
+      "jsonName": "hello-blog-e80",
+      "internalComponentName": "ComponentHelloBlog",
+      "path": "/hello-blog/",
       "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
       "componentChunkName": "component---src-templates-post-js",
       "context": {
-        "slug": "/hello-world/",
+        "slug": "/hello-blog/",
         "relatedPosts": []
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
-      "id": "SitePage /hello-world/",
+      "id": "SitePage /hello-blog/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4650cb02f3aa13063c7ebfc3db960217",
+        "contentDigest": "37bd95d93361809451579f60a688a0fa",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3058,68 +3063,38 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "3b6c27cfbf26965dee979de3e2f2332d"
+    "PLUGINS_HASH": "402aa6a47f1888b64ea317fdcf89edf7"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/category/design/",
-        "/category/collect/",
-        "/category/self/",
-        "/example-design/",
-        "/markdown-cheatsheet/",
-        "/blazing-fast-writing/",
-        "/module-cannot-resolve/",
-        "/example-collect/",
-        "/",
+        "sq--src-components-bio-js",
+        "sq--src-components-category-label-js",
+        "sq--src-components-json-post-json-ld-js",
+        "sq--src-components-json-category-json-ld-js",
+        "sq--src-components-json-home-json-ld-js",
+        "sq--src-components-seo-js",
         "/404/",
         "/404.html",
-        "/category/dev/",
-        "/hello-world/",
-        "sq--src-components-category-label-js",
-        "sq--src-components-bio-js",
-        "sq--src-components-json-category-json-ld-js",
-        "sq--src-components-json-post-json-ld-js",
-        "sq--src-components-json-home-json-ld-js",
-        "sq--src-components-seo-js"
+        "/",
+        "/category/self/",
+        "/hello-blog/"
       ],
-      "29a3dd8b-e008-5f90-879a-5e310e026169": [],
-      "99929f2d-46fe-5040-9cd2-3662bb9234d1": [],
-      "e4444a81-a5ef-5b63-ac07-890d2c6931f2": [
-        "/example-design/"
-      ],
-      "b7363df5-a62d-5107-8b03-751e6482f15c": [
-        "/markdown-cheatsheet/"
-      ],
-      "9c1e2727-77b9-5eee-a499-ee2f6e3b3be5": [
-        "/blazing-fast-writing/"
-      ],
-      "bed1b988-57bd-5218-8b20-2633cba76893": [
-        "/module-cannot-resolve/"
-      ],
-      "1bfa32ac-b2e0-51d5-8d55-be7c6265da9d": [
-        "/example-collect/"
-      ],
-      "567716a5-8046-5344-8af2-2af42714bf64": [],
       "1d709a62-741a-55c3-9e91-a7f06b84e7a4": [
         "sq--src-components-bio-js"
       ],
       "360e35c8-33c3-5e92-bb8b-16ca728d3ae1": [
         "sq--src-components-bio-js"
       ],
-      "fccbb5f2-f61b-5d8b-8cc7-849f80bd97b4": [
-        "/hello-world/"
+      "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c": [
+        "/hello-blog/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        "/category/design/",
-        "/category/collect/",
-        "/category/self/",
         "/",
-        "/category/dev/",
-        null
+        "/category/self/"
       ]
     }
   },
@@ -3129,13 +3104,13 @@
     "sq--src-components-category-label-js": 1330303572,
     "sq--src-components-json-post-json-ld-js": 2072087376,
     "sq--src-components-seo-js": 585967579,
-    "404-22d": "556/path---404-22-d-bce-Sh56yaDIDJskF4nXNTp6KfHFgyk",
-    "index": "814/path---index-6a9-36hPqqfzRzAuw1FMSKbojv0v7vY",
-    "404-html-516": "201/path---404-html-516-62a-Sh56yaDIDJskF4nXNTp6KfHFgyk",
+    "404-22d": "355/path---404-22-d-bce-7EV7CmcV9KnUZqSaPy3VDtvIHco",
+    "index": "36/path---index-6a9-InQFYddgngA87HHj7dybAa16SD8",
+    "404-html-516": "801/path---404-html-516-62a-7EV7CmcV9KnUZqSaPy3VDtvIHco",
     "category-design-dee": "941/path---category-design-dee-f3f-s3TV99BRQy339F8rsURSjRnIFw",
     "category-dev-fad": "607/path---category-dev-fad-fbf-txB4uZ6M3qL1JWP2F2RACyztk",
     "category-collect-ce8": "157/path---category-collect-ce-8-d17-IONKtr0CZ7K2mvkRMTjyXuShJ00",
-    "category-self-50e": "54/path---category-self-50-e-cf2-u7rFFRmSRxLdGAhDv0bMG1ZFkI",
+    "category-self-50e": "181/path---category-self-50-e-cf2-mjFklKip8GlnHWgEKU2robvD4uQ",
     "sq--src-components-bio-js": 2447670510,
     "module-cannot-resolve-755": "497/path---module-cannot-resolve-755-d30-tB2tf1GoSrSnN0EsanrFIBDi2Qc",
     "example-design-005": "622/path---example-design-005-d65-v1L7JpMFMArlYYWcAINDrFk830c",
@@ -3143,8 +3118,9 @@
     "blazing-fast-writing-bff": "15/path---blazing-fast-writing-bff-277-hmpigEKkdQmf9pcapwqGFLvM1g",
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
     "markdown-cheatsheet-7d1": "524/path---markdown-cheatsheet-7-d-1-708-g9dCy5fxwGAf9u82VLVnD3V4dPM",
-    "hello-world-8bc": "40/path---hello-world-8-bc-b62-z3JET9XO8Y8zu2udNfRNJ3hWwk",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+    "hello-world-8bc": "602/path---hello-world-8-bc-b62-UgmHb32VDwoipvtwoBy9vDZC9jI",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "hello-blog-e80": "391/path---hello-blog-e-80-81a-Saqf02mjrn8JRNBH9LGaeZPj4s"
   },
   "components": {
     "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js": {
@@ -3185,6 +3161,14 @@
       "query": "query categoryQuery {\n  site {\n    siteMetadata {\n      categories {\n        name\n        slug\n        color\n      }\n    }\n  }\n}\n",
       "hash": 1330303572
     },
+    "sq--src-components-json-post-json-ld-js": {
+      "name": "JsonLdPostQuery",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/PostJsonLd.js",
+      "id": "sq--src-components-json-post-json-ld-js",
+      "jsonName": "sq--src-components-json-post-json-ld-js",
+      "query": "query JsonLdPostQuery {\n  site {\n    siteMetadata {\n      siteUrl\n      author\n      categories {\n        name\n        slug\n      }\n    }\n  }\n}\n",
+      "hash": 2072087376
+    },
     "sq--src-components-json-category-json-ld-js": {
       "name": "jsonLdCategoryQuery",
       "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/CategoryJsonLd.js",
@@ -3208,14 +3192,6 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      siteUrl\n      description\n      author\n    }\n  }\n}\n",
       "hash": 585967579
-    },
-    "sq--src-components-json-post-json-ld-js": {
-      "name": "JsonLdPostQuery",
-      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/components/json/PostJsonLd.js",
-      "id": "sq--src-components-json-post-json-ld-js",
-      "jsonName": "sq--src-components-json-post-json-ld-js",
-      "query": "query JsonLdPostQuery {\n  site {\n    siteMetadata {\n      siteUrl\n      author\n      categories {\n        name\n        slug\n      }\n    }\n  }\n}\n",
-      "hash": 2072087376
     }
   }
 }

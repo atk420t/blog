@@ -16,13 +16,13 @@
     },
     {
         "componentChunkName": "component---src-templates-categories-js",
-        "jsonName": "category-dev-fad",
-        "path": "/category/dev/"
+        "jsonName": "category-self-50e",
+        "path": "/category/self/"
     },
     {
         "componentChunkName": "component---src-templates-post-js",
-        "jsonName": "hello-world-8bc",
-        "path": "/hello-world/"
+        "jsonName": "hello-blog-e80",
+        "path": "/hello-blog/"
     },
     {
         "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
