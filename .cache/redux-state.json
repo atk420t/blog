@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "a9e2499c12d6ae831a249ec3e1f6c665",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2604,14 +2613,16 @@
           }
         ]
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-10T18:27:09.968Z",
+      "buildTime": "2019-03-12T06:50:15.006Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c36ad444e575057df75c875d2222dfce",
+        "contentDigest": "1efe12ced76f2d909b6685979924afa1",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2621,7 +2632,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "076085eefa60d368e10d63ad603f339a",
+        "contentDigest": "1da8b17b54ce8009a51a1c8934d3f612",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2630,11 +2641,11 @@
       "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
       "relativePath": "",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2019-03-10T18:07:23.053Z",
-      "accessTime": "2019-03-10T18:27:14.753Z",
-      "changeTime": "2019-03-10T18:07:23.053Z",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2019-03-12T06:49:38.354Z",
+      "accessTime": "2019-03-12T06:50:20.784Z",
+      "changeTime": "2019-03-12T06:49:38.354Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
       "dir": "/Users/atk420t/Desktop/Project/ogiblog/content",
@@ -2644,20 +2655,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23668829,
       "blocks": 0,
-      "atimeMs": 1552242434753.288,
-      "mtimeMs": 1552241243052.9543,
-      "ctimeMs": 1552241243052.9543,
+      "atimeMs": 1552373420784.1472,
+      "mtimeMs": 1552373378354.2488,
+      "ctimeMs": 1552373378354.2488,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-10T18:27:14.753Z",
-      "mtime": "2019-03-10T18:07:23.053Z",
-      "ctime": "2019-03-10T18:07:23.053Z",
+      "atime": "2019-03-12T06:50:20.784Z",
+      "mtime": "2019-03-12T06:49:38.354Z",
+      "ctime": "2019-03-12T06:49:38.354Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
     },
     "0d9b9e30-2169-56c8-a352-9fa21a7561e1": {
@@ -2665,7 +2676,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7c50f1c3654c296fe02e1b12e835cbcc",
+        "contentDigest": "b3438b54b16fd7eecf9e092ca248400e",
         "type": "Directory",
         "description": "Directory \"content/blog/hello-blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2677,7 +2688,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-03-09T17:45:46.560Z",
-      "accessTime": "2019-03-10T18:27:14.755Z",
+      "accessTime": "2019-03-12T06:50:20.786Z",
       "changeTime": "2019-03-10T18:07:23.053Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
@@ -2695,11 +2706,11 @@
       "blksize": 4096,
       "ino": 23668860,
       "blocks": 0,
-      "atimeMs": 1552242434755.1155,
+      "atimeMs": 1552373420786.1553,
       "mtimeMs": 1552153546559.9797,
       "ctimeMs": 1552241243052.954,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-10T18:27:14.755Z",
+      "atime": "2019-03-12T06:50:20.786Z",
       "mtime": "2019-03-09T17:45:46.560Z",
       "ctime": "2019-03-10T18:07:23.053Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
@@ -2711,7 +2722,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "72c9678c0bccb6e65b27c148def168db",
+        "contentDigest": "c0bd9b264ed09abdd68c6ca46968a606",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/blog/hello-blog/index.md\"",
@@ -2721,11 +2732,11 @@
       "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog/index.md",
       "relativePath": "hello-blog/index.md",
       "extension": "md",
-      "size": 1050,
-      "prettySize": "1.05 kB",
-      "modifiedTime": "2019-03-10T18:20:57.381Z",
-      "accessTime": "2019-03-10T18:20:57.393Z",
-      "changeTime": "2019-03-10T18:20:57.381Z",
+      "size": 1090,
+      "prettySize": "1.09 kB",
+      "modifiedTime": "2019-03-12T06:49:40.753Z",
+      "accessTime": "2019-03-12T06:49:41.766Z",
+      "changeTime": "2019-03-12T06:49:40.753Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
       "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog",
@@ -2742,47 +2753,21 @@
       "blksize": 4096,
       "ino": 23088317,
       "blocks": 8,
-      "atimeMs": 1552242057392.5854,
-      "mtimeMs": 1552242057380.666,
-      "ctimeMs": 1552242057380.666,
+      "atimeMs": 1552373381766.0999,
+      "mtimeMs": 1552373380752.929,
+      "ctimeMs": 1552373380752.929,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-10T18:20:57.393Z",
-      "mtime": "2019-03-10T18:20:57.381Z",
-      "ctime": "2019-03-10T18:20:57.381Z",
+      "atime": "2019-03-12T06:49:41.766Z",
+      "mtime": "2019-03-12T06:49:40.753Z",
+      "ctime": "2019-03-12T06:49:40.753Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
-    },
-    "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c": {
-      "id": "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c",
-      "children": [],
-      "parent": "767ff376-4a6c-58b9-85db-67bb8014e8c6",
-      "internal": {
-        "content": "\n&#x4EE5;&#x524D;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x3068;&#x3057;&#x3066;&#x904B;&#x55B6;&#x3059;&#x308B;&#x306B;&#x3042;&#x305F;&#x308A;&#x3001;&#x500B;&#x4EBA;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x4F5C;&#x308A;&#x305F;&#x3044;&#x3068;&#x8003;&#x3048;&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x306F;&#x3058;&#x3081;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n## &#x306A;&#x306B;&#x3067;&#x69CB;&#x7BC9;&#x3057;&#x305F;&#x304B;\t\n&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x306F;Gatsby&#x3068;Netlify&#x3092;&#x4F7F;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;  \n&#x500B;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;&#x3068;&#x306A;&#x308C;&#x3070;&#x6700;&#x8FD1;&#x3067;&#x306F;note&#x3084;&#x306F;&#x3066;&#x30D6;&#x30ED;&#x304C;&#x4E3B;&#x6D41;&#x306A;&#x306E;&#x304B;&#x306A;&#x3068;&#x306F;&#x601D;&#x3044;&#x307E;&#x3059;&#x304C;&#x3001;&#x50D5;&#x81EA;&#x8EAB;&#x30D6;&#x30ED;&#x30B0;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x306B;&#x624B;&#x3092;&#x51FA;&#x3059;&#x306E;&#x306B;&#x62B5;&#x6297;&#x304C;&#x3042;&#x308A;&#x4ECA;&#x307E;&#x3067;&#x306F;WordPress&#x3092;&#x4F7F;&#x3063;&#x3066;&#x3044;&#x307E;&#x3057;&#x305F;&#x3002;  \n&#x4ECA;&#x56DE;Gatsby&#x306B;&#x624B;&#x3092;&#x51FA;&#x3057;&#x305F;&#x306E;&#x306F;CatNose&#x3055;&#x3093;(@catnose99)&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x304C;&#x3053;&#x308C;&#x306B;&#x3088;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x305F;&#x306E;&#x304C;&#x304D;&#x3063;&#x304B;&#x3051;&#x3067;&#x3059;&#x3002;&#x3000;GitHub&#x306B;&#x81EA;&#x7531;&#x306B;&#x4F7F;&#x3048;&#x308B;(&#x753B;&#x50CF;&#x3068;&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x4EE5;&#x5916;)&#x30B3;&#x30FC;&#x30C9;&#x304C;&#x3042;&#x3063;&#x305F;&#x306E;&#x3067;&#x4F7F;&#x308F;&#x305B;&#x3066;&#x3044;&#x305F;&#x3060;&#x304D;&#x307E;&#x3057;&#x305F;&#x3002;  \nGatsby&#x306B;&#x3059;&#x308B;&#x3053;&#x3068;&#x3067;&#x308F;&#x3056;&#x308F;&#x3056;CMS&#x306B;&#x30A2;&#x30AF;&#x30BB;&#x30B9;&#x3059;&#x308B;&#x3053;&#x3068;&#x306A;&#x304F;&#x8A18;&#x4E8B;&#x304C;&#x30ED;&#x30FC;&#x30AB;&#x30EB;&#x74B0;&#x5883;&#x3067;&#x3082;&#x57F7;&#x7B46;&#x3067;&#x304D;&#x308B;&#x305F;&#x3081;&#x3001;&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA;&#x3057;&#x3066;&#x69CB;&#x7BC9;&#x3059;&#x308B;&#x3053;&#x3068;&#x3092;&#x6C7A;&#x610F;&#x3057;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "235f1f29c5a328e40bb667a80cda6ccb",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "ブログをはじめました！",
-        "date": "2019-03-11",
-        "category": "self",
-        "emoji": "✏"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n以前のブログをメディアとして運営するにあたり、個人のブログを作りたいと考えこのブログをはじめました。  \n\n## なにで構築したか\t\nこのブログはGatsbyとNetlifyを使って構築されています。  \n個人ブログとなれば最近ではnoteやはてブロが主流なのかなとは思いますが、僕自身ブログサービスに手を出すのに抵抗があり今まではWordPressを使っていました。  \n今回Gatsbyに手を出したのはCatNoseさん(@catnose99)のブログがこれによって構築されていたのがきっかけです。　GitHubに自由に使える(画像とコンテンツ以外)コードがあったので使わせていただきました。  \nGatsbyにすることでわざわざCMSにアクセスすることなく記事がローカル環境でも執筆できるため、カスタマイズして構築することを決意しました。  \n\n\n",
-      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog/index.md",
-      "fields": {
-        "slug": "/hello-blog/"
-      }
     },
     "6ca53f04-5914-5f86-aa97-77b7ffea2437": {
       "id": "6ca53f04-5914-5f86-aa97-77b7ffea2437",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e06837d8dca934b7f22d1e754b2f4072",
+        "contentDigest": "d0d7864bdc13a484fb5551ed9df35c1d",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -2794,7 +2779,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-03-05T06:24:27.914Z",
-      "accessTime": "2019-03-10T18:27:14.765Z",
+      "accessTime": "2019-03-12T06:50:20.814Z",
       "changeTime": "2019-03-09T16:23:56.384Z",
       "birthTime": "2019-02-25T22:22:38.000Z",
       "root": "/",
@@ -2812,11 +2797,11 @@
       "blksize": 4096,
       "ino": 23668904,
       "blocks": 0,
-      "atimeMs": 1552242434764.93,
+      "atimeMs": 1552373420813.7092,
       "mtimeMs": 1551767067913.761,
       "ctimeMs": 1552148636384.2026,
       "birthtimeMs": 1551133358000,
-      "atime": "2019-03-10T18:27:14.765Z",
+      "atime": "2019-03-12T06:50:20.814Z",
       "mtime": "2019-03-05T06:24:27.914Z",
       "ctime": "2019-03-09T16:23:56.384Z",
       "birthtime": "2019-02-25T22:22:38.000Z"
@@ -2935,24 +2920,205 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "jsonName": "offline-plugin-app-shell-fallback-a30",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": null,
+    "ddf47c39-1029-5b26-a3b7-132bcb28a5aa": {
+      "id": "ddf47c39-1029-5b26-a3b7-132bcb28a5aa",
       "children": [],
+      "parent": null,
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "71b576fc893622f70f18c4a74a4f3652",
-        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-        "owner": "internal-data-bridge"
+        "contentDigest": "d079e391e4f686b54bdd256bfe329f5f",
+        "type": "Directory",
+        "description": "Directory \"content/blog/markdown-cheatsheet\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet",
+      "relativePath": "markdown-cheatsheet",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-02-25T22:22:38.000Z",
+      "accessTime": "2019-03-12T06:50:20.786Z",
+      "changeTime": "2019-03-12T06:49:38.470Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog",
+      "base": "markdown-cheatsheet",
+      "ext": "",
+      "name": "markdown-cheatsheet",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 24161079,
+      "blocks": 0,
+      "atimeMs": 1552373420786.1116,
+      "mtimeMs": 1551133358000,
+      "ctimeMs": 1552373378469.6606,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-12T06:50:20.786Z",
+      "mtime": "2019-02-25T22:22:38.000Z",
+      "ctime": "2019-03-12T06:49:38.470Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "53bfd229-2ca9-5914-b5ff-91d5897d7a44": {
+      "id": "53bfd229-2ca9-5914-b5ff-91d5897d7a44",
+      "children": [
+        "20691a63-d2e2-5d27-ae84-e28faa76d2f0"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "75999ceeb37e5f8556a8ce9ba6916fa9",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/markdown-cheatsheet/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet/index.md",
+      "relativePath": "markdown-cheatsheet/index.md",
+      "extension": "md",
+      "size": 4255,
+      "prettySize": "4.25 kB",
+      "modifiedTime": "2019-02-25T22:22:38.000Z",
+      "accessTime": "2019-03-12T06:49:39.484Z",
+      "changeTime": "2019-03-12T06:49:38.469Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "markdown-cheatsheet",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 24161082,
+      "blocks": 16,
+      "atimeMs": 1552373379484.2883,
+      "mtimeMs": 1551133358000,
+      "ctimeMs": 1552373378468.5376,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-12T06:49:39.484Z",
+      "mtime": "2019-02-25T22:22:38.000Z",
+      "ctime": "2019-03-12T06:49:38.469Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "0de6cb1b-4d8e-5a3c-b429-e5087860afe2": {
+      "id": "0de6cb1b-4d8e-5a3c-b429-e5087860afe2",
+      "children": [
+        "327c7881-92ff-5dae-b9b1-c811b9745d41"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "987538dfd216a3ad15091bf192f1df9b",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/markdown-cheatsheet/image.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet/image.jpg",
+      "relativePath": "markdown-cheatsheet/image.jpg",
+      "extension": "jpg",
+      "size": 27851,
+      "prettySize": "27.9 kB",
+      "modifiedTime": "2019-02-25T22:22:38.000Z",
+      "accessTime": "2019-03-12T06:49:39.484Z",
+      "changeTime": "2019-03-12T06:49:38.469Z",
+      "birthTime": "2019-02-25T22:22:38.000Z",
+      "root": "/",
+      "dir": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet",
+      "base": "image.jpg",
+      "ext": ".jpg",
+      "name": "image",
+      "relativeDirectory": "markdown-cheatsheet",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 24161083,
+      "blocks": 56,
+      "atimeMs": 1552373379484.1826,
+      "mtimeMs": 1551133358000,
+      "ctimeMs": 1552373378469.3792,
+      "birthtimeMs": 1551133358000,
+      "atime": "2019-03-12T06:49:39.484Z",
+      "mtime": "2019-02-25T22:22:38.000Z",
+      "ctime": "2019-03-12T06:49:38.469Z",
+      "birthtime": "2019-02-25T22:22:38.000Z"
+    },
+    "327c7881-92ff-5dae-b9b1-c811b9745d41": {
+      "id": "327c7881-92ff-5dae-b9b1-c811b9745d41",
+      "children": [],
+      "parent": "0de6cb1b-4d8e-5a3c-b429-e5087860afe2",
+      "internal": {
+        "contentDigest": "987538dfd216a3ad15091bf192f1df9b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c": {
+      "id": "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c",
+      "children": [],
+      "parent": "767ff376-4a6c-58b9-85db-67bb8014e8c6",
+      "internal": {
+        "content": "\n&#x4EE5;&#x524D;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x3068;&#x3057;&#x3066;&#x904B;&#x55B6;&#x3059;&#x308B;&#x306B;&#x3042;&#x305F;&#x308A;&#x3001;&#x500B;&#x4EBA;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x4F5C;&#x308A;&#x305F;&#x3044;&#x3068;&#x8003;&#x3048;&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x3092;&#x306F;&#x3058;&#x3081;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n## &#x306A;&#x306B;&#x3067;&#x69CB;&#x7BC9;&#x3057;&#x305F;&#x304B;\t\n&#x3053;&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x306F;Gatsby&#x3068;Netlify&#x3092;&#x4F7F;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;  \n&#x500B;&#x4EBA;&#x30D6;&#x30ED;&#x30B0;&#x3068;&#x306A;&#x308C;&#x3070;&#x6700;&#x8FD1;&#x3067;&#x306F;note&#x3084;&#x306F;&#x3066;&#x30D6;&#x30ED;&#x304C;&#x4E3B;&#x6D41;&#x306A;&#x306E;&#x304B;&#x306A;&#x3068;&#x306F;&#x601D;&#x3044;&#x307E;&#x3059;&#x304C;&#x3001;&#x50D5;&#x81EA;&#x8EAB;&#x30D6;&#x30ED;&#x30B0;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x306B;&#x624B;&#x3092;&#x51FA;&#x3059;&#x306E;&#x306B;&#x62B5;&#x6297;&#x304C;&#x3042;&#x308A;&#x4ECA;&#x307E;&#x3067;&#x306F;WordPress&#x3092;&#x4F7F;&#x3063;&#x3066;&#x3044;&#x307E;&#x3057;&#x305F;&#x3002;  \n&#x4ECA;&#x56DE;Gatsby&#x306B;&#x624B;&#x3092;&#x51FA;&#x3057;&#x305F;&#x306E;&#x306F;CatNose&#x3055;&#x3093;(@catnose99)&#x306E;&#x30D6;&#x30ED;&#x30B0;&#x304C;&#x3053;&#x308C;&#x306B;&#x3088;&#x3063;&#x3066;&#x69CB;&#x7BC9;&#x3055;&#x308C;&#x3066;&#x3044;&#x305F;&#x306E;&#x304C;&#x304D;&#x3063;&#x304B;&#x3051;&#x3067;&#x3059;&#x3002;&#x3000;GitHub&#x306B;&#x81EA;&#x7531;&#x306B;&#x4F7F;&#x3048;&#x308B;(&#x753B;&#x50CF;&#x3068;&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x4EE5;&#x5916;)&#x30B3;&#x30FC;&#x30C9;&#x304C;&#x3042;&#x3063;&#x305F;&#x306E;&#x3067;&#x4F7F;&#x308F;&#x305B;&#x3066;&#x3044;&#x305F;&#x3060;&#x304D;&#x307E;&#x3057;&#x305F;&#x3002;  \nGatsby&#x306B;&#x3059;&#x308B;&#x3053;&#x3068;&#x3067;&#x308F;&#x3056;&#x308F;&#x3056;CMS&#x306B;&#x30A2;&#x30AF;&#x30BB;&#x30B9;&#x3059;&#x308B;&#x3053;&#x3068;&#x306A;&#x304F;&#x8A18;&#x4E8B;&#x304C;&#x30ED;&#x30FC;&#x30AB;&#x30EB;&#x74B0;&#x5883;&#x3067;&#x3082;&#x57F7;&#x7B46;&#x3067;&#x304D;&#x308B;&#x305F;&#x3081;&#x3001;&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA;&#x3057;&#x3066;&#x69CB;&#x7BC9;&#x3059;&#x308B;&#x3053;&#x3068;&#x3092;&#x6C7A;&#x610F;&#x3057;&#x307E;&#x3057;&#x305F;&#x3002;  \n\n\n## &#x3053;&#x308C;&#x304B;&#x3089;&#x4F55;&#x3092;&#x66F8;&#x3044;&#x3066;&#x3044;&#x304F;&#x304B;\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3ef734dea15c3d99b9735c47bfbed96e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "ブログをはじめました！",
+        "date": "2019-03-11",
+        "category": "self",
+        "emoji": "✏"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n以前のブログをメディアとして運営するにあたり、個人のブログを作りたいと考えこのブログをはじめました。  \n\n## なにで構築したか\t\nこのブログはGatsbyとNetlifyを使って構築されています。  \n個人ブログとなれば最近ではnoteやはてブロが主流なのかなとは思いますが、僕自身ブログサービスに手を出すのに抵抗があり今まではWordPressを使っていました。  \n今回Gatsbyに手を出したのはCatNoseさん(@catnose99)のブログがこれによって構築されていたのがきっかけです。　GitHubに自由に使える(画像とコンテンツ以外)コードがあったので使わせていただきました。  \nGatsbyにすることでわざわざCMSにアクセスすることなく記事がローカル環境でも執筆できるため、カスタマイズして構築することを決意しました。  \n\n\n## これから何を書いていくか\n",
+      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/hello-blog/index.md",
+      "fields": {
+        "slug": "/hello-blog/"
+      }
+    },
+    "20691a63-d2e2-5d27-ae84-e28faa76d2f0": {
+      "id": "20691a63-d2e2-5d27-ae84-e28faa76d2f0",
+      "children": [],
+      "parent": "53bfd229-2ca9-5914-b5ff-91d5897d7a44",
+      "internal": {
+        "content": "\n&#x30D6;&#x30ED;&#x30B0;&#x300C;CatKnows&#x300D;&#x306E;&#x30DE;&#x30FC;&#x30AF;&#x30C0;&#x30A6;&#x30F3;&#x30C1;&#x30FC;&#x30C8;&#x30B7;&#x30FC;&#x30C8;&#x3092;&#x307E;&#x3068;&#x3081;&#x3066;&#x304A;&#x304F;&#x3002;\n&#x5B8C;&#x5168;&#x306B;&#x50D5;&#x81EA;&#x8EAB;&#x306E;&#x53C2;&#x7167;&#x7528;&#x306E;&#x3082;&#x306E;&#x3060;&#x3002;&#x3061;&#x306A;&#x307F;&#x306B;&#x30D6;&#x30ED;&#x30B0;&#x306E;&#x30BD;&#x30FC;&#x30B9;&#x30B3;&#x30FC;&#x30C9;&#x306F;[GitHub&#x4E0A;&#x3067;&#x516C;&#x958B;](https://github.com/catnose99/CatKnows)&#x3057;&#x3066;&#x3044;&#x308B;&#x3002;\n\n------\n### &#x898B;&#x51FA;&#x3057;\n\n```\n## Heading2\n### Heading3\n#### Heading4\n##### Heading5\n```\n## Heading2\n### Heading3\n#### Heading4\n##### Heading5\n\n------\n### &#x30EA;&#x30B9;&#x30C8;\n```\n- Sample text\n- Sample text\n- Sample text\n  - Sample text\n  - Sample text\n```\n- Sample text\n- Sample text\n- Sample text\n  - Sample text\n  - Sample text\n\n```\n1. Sample text\n2. Sample text\n3. Sample text\n4. Sample text\n5. Sample text\n```\n1. Sample text\n2. Sample text\n3. Sample text\n4. Sample text\n5. Sample text\n\n------\n### &#x30A4;&#x30F3;&#x30E9;&#x30A4;&#x30F3;&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x88C5;&#x98FE;\n```\n*イタリック*\n**太字**\n~~打ち消し線~~\nインラインで`code`を挿入する\nこちらは[僕のTwitterのリンク](https://twitter.com/catnose99)\n```\n\n*&#x30A4;&#x30BF;&#x30EA;&#x30C3;&#x30AF;*\n\n**&#x592A;&#x5B57;**\n\n~~&#x6253;&#x3061;&#x6D88;&#x3057;&#x7DDA;~~\n\n&#x30A4;&#x30F3;&#x30E9;&#x30A4;&#x30F3;&#x3067;`code`&#x3092;&#x633F;&#x5165;&#x3059;&#x308B;\n\n&#x3053;&#x3061;&#x3089;&#x306F;[&#x50D5;&#x306E;Twitter&#x306E;&#x30EA;&#x30F3;&#x30AF;](https://twitter.com/catnose99)&#x3067;&#x3059;&#x3002;\n\n------\n### &#x30C6;&#x30FC;&#x30D6;&#x30EB;\n```\n| Head | Head | Head |\n| ---- | ---- | ---- |\n| Text | Text | Text |\n| Text | Text | Text |\n```\n\n| Head | Head | Head |\n| ---- | ---- | ---- |\n| Text | Text | Text |\n| Text | Text | Text |\n\n-----\n### &#x30B3;&#x30FC;&#x30C9;\n\n<div class=\"gatsby-highlight\" data-language=\"text\"><pre class=\"language-text\"><code class=\"language-text\">```css\n  body {\n    color: red;\n  }\n```\n</code></pre></div>\n\n```css:title=style.css\n  body {\n    color: red;\n  }\n```\n\n\n-----\n### 画像\n```\n![sampleAlt](./image.jpg)\n```\n\n![sampleAlt](./image.jpg)\n\n画像ファイルは投稿のindex.mdと同フォルダ内に配置する\n#### 画像のサイズ調整\n```\n[[imageMedium]]\n| ![alt](./image.jpg)\n\n[[imageSmall]]\n| ![alt](./image.jpg)\n```\n[[imageMedium]]\n| ![alt](./image.jpg)\n\n[[imageSmall]]\n| ![alt](./image.jpg)\n\n-----\n### ボックス\n\n```\n[[simple | Hello ]]\n| Some note here\n\n[[info | Memo]]\n| Some note here\n\n[[notice | Note]]\n| Some note here\n\n[[alert | <img class=\"emoji twemoji\" draggable=\"false\" alt=\"&#x1F645;\" src=\"https://twemoji.maxcdn.com/2/72x72/1f645.png\" style=\"height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;\"/> Danger! ]]\n| - You can also use lists\n| - like this\n\n```\n\n[[simple | Hello ]]\n| Some note here\n\n[[info | Memo]]\n| Some note here\n\n[[notice | Note]]\n| Some note here\n\n[[alert | 🙅 Danger! ]]\n| - You can also use lists\n| - like this\n\n\n-----\n### 水平線\n\n```\n-----\n```\n\n-----\n### Youtube埋め込み\n```\n`youtube:https://www.youtube.com/embed/19R93fiKyRA`\n```\n\n`youtube:https://www.youtube.com/embed/19R93fiKyRA`\n\n### ツイート埋め込み\n```\n//script&#x30B3;&#x30FC;&#x30C9;&#x306F;&#x9664;&#x304F;&#x3053;&#x3068;\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\">\n  <p lang=\"ja\" dir=\"ltr\">&#x3060;&#x308C;&#x3067;&#x3082;&#x7C21;&#x5358;&#x306B;&#x7F8E;&#x3057;&#x3044;Web&#x30DD;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30EA;&#x30AA;&#x3092;&#x4F5C;&#x6210;&#x3067;&#x304D;&#x308B;&#x30B5;&#x30FC;&#x30D3;&#x30B9; RESUME&#xFF08;&#x30EC;&#x30B8;&#x30E5;&#x30E1;&#xFF09;&#x3092;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#x3057;&#x307E;&#x3057;&#x305F;<img class=\"emoji twemoji\" draggable=\"false\" alt=\"&#x1F389;\" src=\"https://twemoji.maxcdn.com/2/72x72/1f389.png\" style=\"height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;\"/><br><br>&#x30A4;&#x30E9;&#x30B9;&#x30C8;&#x30EC;&#x30FC;&#x30BF;&#x30FC;&#x3001;&#x30AB;&#x30E1;&#x30E9;&#x30DE;&#x30F3;&#x3001;&#x30C7;&#x30B6;&#x30A4;&#x30CA;&#x30FC;&#x3001;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x3060;&#x3051;&#x3067;&#x306A;&#x304F;&#x3001;&#x7814;&#x7A76;&#x8005;&#x3001;&#x30DE;&#x30FC;&#x30B1;&#x30BF;&#x30FC;&#x306A;&#x3069;&#x306A;&#x3069;&#x8AB0;&#x3067;&#x3082;&#x4F7F;&#x3048;&#x308B;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x3067;&#x3059;&#xFF01;<br>&#x30DD;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30EA;&#x30AA;&#x3092;&#x4F5C;&#x308A;&#x305F;&#x3044;&#x4EBA;&#x306B;&#x5C4A;&#x3051;&#x301C;<a href=\"https://t.co/DtTLqSqs7I\">https://t.co/DtTLqSqs7I</a> <a href=\"https://t.co/Oq7ib0Um3k\">pic.twitter.com/Oq7ib0Um3k</a></br></br></br></p>&amp;mdash; CatNose<img class=\"emoji twemoji\" draggable=\"false\" alt=\"&#x1F63A;\" src=\"https://twemoji.maxcdn.com/2/72x72/1f63a.png\" style=\"height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;\"/> (@catnose99) <a href=\"https://twitter.com/catnose99/status/1090554889816555520?ref_src=twsrc%5Etfw\">2019&#x5E74;1&#x6708;30&#x65E5;</a>\n</blockquote>\n```\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\">\n  <p lang=\"ja\" dir=\"ltr\">&#x3060;&#x308C;&#x3067;&#x3082;&#x7C21;&#x5358;&#x306B;&#x7F8E;&#x3057;&#x3044;Web&#x30DD;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30EA;&#x30AA;&#x3092;&#x4F5C;&#x6210;&#x3067;&#x304D;&#x308B;&#x30B5;&#x30FC;&#x30D3;&#x30B9; RESUME&#xFF08;&#x30EC;&#x30B8;&#x30E5;&#x30E1;&#xFF09;&#x3092;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#x3057;&#x307E;&#x3057;&#x305F;<img class=\"emoji twemoji\" draggable=\"false\" alt=\"&#x1F389;\" src=\"https://twemoji.maxcdn.com/2/72x72/1f389.png\" style=\"height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;\"/><br><br>&#x30A4;&#x30E9;&#x30B9;&#x30C8;&#x30EC;&#x30FC;&#x30BF;&#x30FC;&#x3001;&#x30AB;&#x30E1;&#x30E9;&#x30DE;&#x30F3;&#x3001;&#x30C7;&#x30B6;&#x30A4;&#x30CA;&#x30FC;&#x3001;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x3060;&#x3051;&#x3067;&#x306A;&#x304F;&#x3001;&#x7814;&#x7A76;&#x8005;&#x3001;&#x30DE;&#x30FC;&#x30B1;&#x30BF;&#x30FC;&#x306A;&#x3069;&#x306A;&#x3069;&#x8AB0;&#x3067;&#x3082;&#x4F7F;&#x3048;&#x308B;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x3067;&#x3059;&#xFF01;<br>&#x30DD;&#x30FC;&#x30C8;&#x30D5;&#x30A9;&#x30EA;&#x30AA;&#x3092;&#x4F5C;&#x308A;&#x305F;&#x3044;&#x4EBA;&#x306B;&#x5C4A;&#x3051;&#x301C;<a href=\"https://t.co/DtTLqSqs7I\">https://t.co/DtTLqSqs7I</a> <a href=\"https://t.co/Oq7ib0Um3k\">pic.twitter.com/Oq7ib0Um3k</a></br></br></br></p>&amp;mdash; CatNose<img class=\"emoji twemoji\" draggable=\"false\" alt=\"&#x1F63A;\" src=\"https://twemoji.maxcdn.com/2/72x72/1f63a.png\" style=\"height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;\"/> (@catnose99) <a href=\"https://twitter.com/catnose99/status/1090554889816555520?ref_src=twsrc%5Etfw\">2019&#x5E74;1&#x6708;30&#x65E5;</a>\n</blockquote>",
+        "type": "MarkdownRemark",
+        "contentDigest": "f895d5eda0d57f0794df45a8ff9259b2",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "CatKnowsマークダウン表現集",
+        "date": "2019-02-21T22:12:03.284Z",
+        "category": "dev",
+        "description": "このブログで使っているマークダウン表現のチートシートです。",
+        "emoji": "🐣"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nブログ「CatKnows」のマークダウンチートシートをまとめておく。\n完全に僕自身の参照用のものだ。ちなみにブログのソースコードは[GitHub上で公開](https://github.com/catnose99/CatKnows)している。\n\n------\n### 見出し\n\n```\n## Heading2\n### Heading3\n#### Heading4\n##### Heading5\n```\n## Heading2\n### Heading3\n#### Heading4\n##### Heading5\n\n------\n### リスト\n```\n- Sample text\n- Sample text\n- Sample text\n  - Sample text\n  - Sample text\n```\n- Sample text\n- Sample text\n- Sample text\n  - Sample text\n  - Sample text\n\n```\n1. Sample text\n2. Sample text\n3. Sample text\n4. Sample text\n5. Sample text\n```\n1. Sample text\n2. Sample text\n3. Sample text\n4. Sample text\n5. Sample text\n\n------\n### インラインテキスト装飾\n```\n*イタリック*\n**太字**\n~~打ち消し線~~\nインラインで`code`を挿入する\nこちらは[僕のTwitterのリンク](https://twitter.com/catnose99)\n```\n\n*イタリック*\n\n**太字**\n\n~~打ち消し線~~\n\nインラインで`code`を挿入する\n\nこちらは[僕のTwitterのリンク](https://twitter.com/catnose99)です。\n\n------\n### テーブル\n```\n| Head | Head | Head |\n| ---- | ---- | ---- |\n| Text | Text | Text |\n| Text | Text | Text |\n```\n\n| Head | Head | Head |\n| ---- | ---- | ---- |\n| Text | Text | Text |\n| Text | Text | Text |\n\n-----\n### コード\n\n<div class=\"gatsby-highlight\" data-language=\"text\"><pre class=\"language-text\"><code class=\"language-text\">```css\n  body {\n    color: red;\n  }\n```\n</code></pre></div>\n\n```css:title=style.css\n  body {\n    color: red;\n  }\n```\n\n\n-----\n### 画像\n```\n![sampleAlt](./image.jpg)\n```\n\n![sampleAlt](./image.jpg)\n\n画像ファイルは投稿のindex.mdと同フォルダ内に配置する\n#### 画像のサイズ調整\n```\n[[imageMedium]]\n| ![alt](./image.jpg)\n\n[[imageSmall]]\n| ![alt](./image.jpg)\n```\n[[imageMedium]]\n| ![alt](./image.jpg)\n\n[[imageSmall]]\n| ![alt](./image.jpg)\n\n-----\n### ボックス\n\n```\n[[simple | Hello ]]\n| Some note here\n\n[[info | Memo]]\n| Some note here\n\n[[notice | Note]]\n| Some note here\n\n[[alert | 🙅 Danger! ]]\n| - You can also use lists\n| - like this\n\n```\n\n[[simple | Hello ]]\n| Some note here\n\n[[info | Memo]]\n| Some note here\n\n[[notice | Note]]\n| Some note here\n\n[[alert | 🙅 Danger! ]]\n| - You can also use lists\n| - like this\n\n\n-----\n### 水平線\n\n```\n-----\n```\n\n-----\n### Youtube埋め込み\n```\n`youtube:https://www.youtube.com/embed/19R93fiKyRA`\n```\n\n`youtube:https://www.youtube.com/embed/19R93fiKyRA`\n\n### ツイート埋め込み\n```\n//scriptコードは除くこと\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\">\n  <p lang=\"ja\" dir=\"ltr\">だれでも簡単に美しいWebポートフォリオを作成できるサービス RESUME（レジュメ）をリリースしました🎉<br><br>イラストレーター、カメラマン、デザイナー、エンジニアだけでなく、研究者、マーケターなどなど誰でも使えるサービスです！<br>ポートフォリオを作りたい人に届け〜<a href=\"https://t.co/DtTLqSqs7I\">https://t.co/DtTLqSqs7I</a> <a href=\"https://t.co/Oq7ib0Um3k\">pic.twitter.com/Oq7ib0Um3k</a></p>&mdash; CatNose😺 (@catnose99) <a href=\"https://twitter.com/catnose99/status/1090554889816555520?ref_src=twsrc%5Etfw\">2019年1月30日</a>\n</blockquote>\n```\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\">\n  <p lang=\"ja\" dir=\"ltr\">だれでも簡単に美しいWebポートフォリオを作成できるサービス RESUME（レジュメ）をリリースしました🎉<br><br>イラストレーター、カメラマン、デザイナー、エンジニアだけでなく、研究者、マーケターなどなど誰でも使えるサービスです！<br>ポートフォリオを作りたい人に届け〜<a href=\"https://t.co/DtTLqSqs7I\">https://t.co/DtTLqSqs7I</a> <a href=\"https://t.co/Oq7ib0Um3k\">pic.twitter.com/Oq7ib0Um3k</a></p>&mdash; CatNose😺 (@catnose99) <a href=\"https://twitter.com/catnose99/status/1090554889816555520?ref_src=twsrc%5Etfw\">2019年1月30日</a>\n</blockquote>",
+      "fileAbsolutePath": "/Users/atk420t/Desktop/Project/ogiblog/content/blog/markdown-cheatsheet/index.md",
+      "fields": {
+        "slug": "/markdown-cheatsheet/"
       }
     },
     "SitePage /category/self/": {
@@ -2977,6 +3143,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /category/dev/": {
+      "jsonName": "category-dev-fad",
+      "internalComponentName": "ComponentCategoryDev",
+      "path": "/category/dev/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
+      "componentChunkName": "component---src-templates-categories-js",
+      "context": {
+        "category": "dev"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js",
+      "id": "SitePage /category/dev/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "380f7d190f0f6f6df9b3a6b37b6497c1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /hello-blog/": {
       "jsonName": "hello-blog-e80",
       "internalComponentName": "ComponentHelloBlog",
@@ -2996,6 +3184,29 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "37bd95d93361809451579f60a688a0fa",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /markdown-cheatsheet/": {
+      "jsonName": "markdown-cheatsheet-7d1",
+      "internalComponentName": "ComponentMarkdownCheatsheet",
+      "path": "/markdown-cheatsheet/",
+      "component": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
+      "componentChunkName": "component---src-templates-post-js",
+      "context": {
+        "slug": "/markdown-cheatsheet/",
+        "relatedPosts": []
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/post.js",
+      "id": "SitePage /markdown-cheatsheet/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8b8626123519208898d901df5b1ee244",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3075,10 +3286,12 @@
         "/hello-blog/",
         "sq--src-components-bio-js",
         "sq--src-components-category-label-js",
-        "sq--src-components-json-category-json-ld-js",
-        "sq--src-components-json-home-json-ld-js",
         "sq--src-components-json-post-json-ld-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-json-home-json-ld-js",
+        "sq--src-components-json-category-json-ld-js",
+        "sq--src-components-seo-js",
+        "/category/dev/",
+        "/markdown-cheatsheet/"
       ],
       "1d709a62-741a-55c3-9e91-a7f06b84e7a4": [
         "sq--src-components-bio-js"
@@ -3088,6 +3301,9 @@
       ],
       "aa7984b5-14b0-5d0e-8088-91cb3f2f7a7c": [
         "/hello-blog/"
+      ],
+      "20691a63-d2e2-5d27-ae84-e28faa76d2f0": [
+        "/markdown-cheatsheet/"
       ]
     },
     "connections": {
@@ -3095,7 +3311,8 @@
         null,
         "/",
         "/category/self/",
-        null
+        null,
+        "/category/dev/"
       ]
     }
   },
@@ -3106,10 +3323,10 @@
     "sq--src-components-json-post-json-ld-js": 2072087376,
     "sq--src-components-seo-js": 585967579,
     "404-22d": "355/path---404-22-d-bce-7EV7CmcV9KnUZqSaPy3VDtvIHco",
-    "index": "36/path---index-6a9-InQFYddgngA87HHj7dybAa16SD8",
+    "index": "76/path---index-6a9-p96tS9IW9P3TSqe3LzIkp8Qk",
     "404-html-516": "801/path---404-html-516-62a-7EV7CmcV9KnUZqSaPy3VDtvIHco",
     "category-design-dee": "941/path---category-design-dee-f3f-s3TV99BRQy339F8rsURSjRnIFw",
-    "category-dev-fad": "607/path---category-dev-fad-fbf-txB4uZ6M3qL1JWP2F2RACyztk",
+    "category-dev-fad": "477/path---category-dev-fad-fbf-GnoCgXJ2tkgmJ8s6RM2mc6AE",
     "category-collect-ce8": "157/path---category-collect-ce-8-d17-IONKtr0CZ7K2mvkRMTjyXuShJ00",
     "category-self-50e": "181/path---category-self-50-e-cf2-mjFklKip8GlnHWgEKU2robvD4uQ",
     "sq--src-components-bio-js": 2447670510,
@@ -3118,16 +3335,12 @@
     "example-collect-737": "653/path---example-collect-737-00e-Szx235YJVi9RjGXumChb211k",
     "blazing-fast-writing-bff": "15/path---blazing-fast-writing-bff-277-hmpigEKkdQmf9pcapwqGFLvM1g",
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "markdown-cheatsheet-7d1": "524/path---markdown-cheatsheet-7-d-1-708-g9dCy5fxwGAf9u82VLVnD3V4dPM",
+    "markdown-cheatsheet-7d1": "216/path---markdown-cheatsheet-7-d-1-708-4WYpimZMdgdlxjyGLlDEsjsO1gI",
     "hello-world-8bc": "602/path---hello-world-8-bc-b62-UgmHb32VDwoipvtwoBy9vDZC9jI",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "hello-blog-e80": "391/path---hello-blog-e-80-81a-Saqf02mjrn8JRNBH9LGaeZPj4s"
+    "hello-blog-e80": "354/path---hello-blog-e-80-81a-siBJLUtyCOiPEh5HPZztxayYTw"
   },
   "components": {
-    "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js": {
-      "query": "",
-      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/node_modules/gatsby-plugin-offline/app-shell.js"
-    },
     "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js": {
       "query": "query BlogPostByCategory(\n  $category: String\n) {\n  site {\n    siteMetadata {\n      categories {\n        name\n        slug\n        color\n      }\n    }\n  }\n  allMarkdownRemark(limit: 1000, sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {category: {eq: $category}}}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"YYYY.MM.DD\")\n          title\n          emoji\n          category\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/templates/categories.js"
@@ -3143,6 +3356,10 @@
     "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js": {
       "query": "query usersAtk420TDesktopProjectOgiblogSrcPagesIndexJs2640445301 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"YYYY.MM.DD\")\n          title\n          emoji\n          category\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/src/pages/index.js"
+    },
+    "/Users/atk420t/Desktop/Project/ogiblog/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/atk420t/Desktop/Project/ogiblog/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
