@@ -4,5 +4,4 @@ date: "2019-05-01"
 category: "self"
 emoji: "✏"
 ---
-
-令和の初日、５月１日にこのブログを始めます。
+first blog.
